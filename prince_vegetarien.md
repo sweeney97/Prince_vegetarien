@@ -160,7 +160,7 @@ Et, il va sans dire que tous les animeaux ont une place dans mon coeur, et jamai
 Si vous m’aider, s’emporta le prince, je vais installer des perchoirs par tout le royaume, et demanderai qu’ils soient toujours pleins de graines, afin que, éternels voyageurs que vous êtes, vous ayez toujours un lieu où vous reposer. »
 L’oiseau soupira.
 « Hé bien, soit. Je peux faire une execption semble-t-il. »
-Puis comme pour lui-même il ajouta : « Bon Dieu, quelle folie suis-je sur le point de commetre? »
+Puis comme pour lui-même il ajouta : « Bon Dieu, quelle folie suis-je sur le point de commettre? »
 
 Et l’oiseau reprit son envol.
 Le prince était reconnaissant de ce que la louve était bonne envers lui, il en était ému.
