@@ -8,7 +8,7 @@ Il se plaisait aux ballades en forêt, fin observateur qu'il était, et jamais n
 En cela il était incompris par ses frères qui le considéraient stupide, niais; ils le traitaient comme le maillon faible de la lignée royale, comme un homme chétif, efféminée.
 
 Le roi se faisant vieux, il devint un jour gravement malade.
-Il réunit ses fils et leur dis : «Quand enfin je tiendrai la main du seigneur, prenez le chemin au sud qui contourne les bois jusqu'au Lac-à-l'Épaule.
+Il réunit ses fils et leur dit: «Quand enfin je tiendrai la main du seigneur, prenez le chemin au sud qui contourne les bois jusqu'au Lac-à-l'Épaule.
 Que mon ministre, mon bras droit, vous prenne à témoin.
 De là, à l'entrée de la forêt, vous y pénétrerez.
 Je vous dis cela, voyez-vous, car ma fin est proche!
@@ -20,10 +20,10 @@ Après les obsèques, conformément aux dernières volontés du père, ls trois 
 L'homme du roi corda en rang d'oignon les trois fils, puis signala le commencement de l'épreuve.
 Puis, il chevaucha par le chemin qui contourne la forêt, afin d'attendre le gagnant à l'autre bout du labyrinthe végétal.
 
-L'aîné, en prévision de ce jour, avait caché une montgolfière non loin, aussi se dépêcha-t-il de la préparer au vol : «Par la voie des airs, se disait-il, impossible de me perdre en forêt et je ne suis pas obligé de chevaucher.
+L'aîné, en prévision de ce jour, avait caché une montgolfière non loin, aussi se dépêcha-t-il de la préparer au vol: «Par la voie des airs, se disait-il, impossible de me perdre en forêt et je ne suis pas obligé de chevaucher.
 Par chance, le vent m'est favorable, c'est Dieu lui-même qui favorise mon entreprise.»
 Il ne tarda point à s'envoler dans les airs aux côtés des oiseaux.
-Quant à celui qui était vif et vigoureux, il pris un cannot dissimulé exprès en vue de ce moment : «par la voie des eaux se disait-il, impossible de me perdre, de plus, la rivière traverse la forêt sans trop de méandres, et j'y ai déjà navigué.
+Quant à celui qui était vif et vigoureux, il pris un cannot dissimulé exprès en vue de ce moment: «par la voie des eaux se disait-il, impossible de me perdre, de plus, la rivière traverse la forêt sans trop de méandres, et j'y ai déjà navigué.
 Sans compter que le débit d'eau en cette heure est parfait, le niveau est ni trop haut ni trop bas, c'est là la preuve que le seigneur approuve mon règne futur! »
 Et le voilà parti sur l'eau, accompagné des poissons.
 Cependant le cadet était désespéré de voir ses frères si bien préparés et, surtout, nullement attristé par la mort de leur père, ou alors il cachait leur émotions adroitement.
@@ -83,15 +83,15 @@ Il s'empêtrait dans ses paroles décousues par l'émotion et le désespoir, mai
 D'ailleurs, qui me dit que tu ne serais pas qu'un gueux, un hypocrite et un menteur?
 -Mais que vous faut-il de plus, morbleu! qu'elle peine pèse sur votre cœur? »
 Et la louve, qui n'attendais que cela, déballa sa peine :
-« Écoute mes paroles, humain : j'ai pleuré mes louveteaux, mes cris ont déchirés la nuit perfide; relayés, amplifiés ar les échos alpins.
+« Écoute mes paroles, humain: j'ai pleuré mes louveteaux, mes cris ont déchirés la nuit perfide; relayés, amplifiés ar les échos alpins.
 Cette nuit-là, les pauvres paysans pris dans leur masure furent pétrifiés jusqu'à la moelle et ils drent se chuchoter entre eux, terrifiés :
 -Quels cris abominables! combien cette bête doit souffrir!
 Voit comme la douleur gît dans mes prunelles!
 Ceci est la vérité! J'ai pleuré la perte de mes enfants comme naguère tu pleura celle de ton père.
 Des hommes, armés de fusils, ont tué mes petits.
-Alors répond moi franchement si tu ne veux point que mes crocs lacèrent ta gorge : dis-moi, homme, pourquoi mes fils sont morts?
+Alors répond moi franchement si tu ne veux point que mes crocs lacèrent ta gorge: dis-moi, homme, pourquoi mes fils sont morts?
 <!--  et pourquoi les tiens (détruisent, défrichent, coupent) les arbres?! -->
-Le prince, le cœur chagriné, dit : « Tes fils sont morts par orgueil de la part des hommes, et la forêt est rasée par caprice, j'en ai peur.
+Le prince, le cœur chagriné, dit: « Tes fils sont morts par orgueil de la part des hommes, et la forêt est rasée par caprice, j'en ai peur.
 -Voilà ce que vous êtes tous! Et tu oses quérir mon aide?
 -Ce n'est pas moi, c'est ce cheval qui…
 -Foin des chevaux! Foin des hommes!
@@ -99,7 +99,7 @@ Le prince, le cœur chagriné, dit : « Tes fils sont morts par orgueil de la p
 Ils font des choses si belles, seulement pour la beauté en elle-même, que les anges tressaillent de plaisir, et ils poussent des la réflexion si loin, dans des abysses si profonds, que même le seigneur tout-puissant s'y penche avec étonnement.
 De plus, il créent des instances et des sociétés organisées de manière complexe, à nulle autre pareille <!--rien de comparable en la nature.-->
 -À quoi sert-il de faire de belles choses si vos âmes sont laides; de réfléchir si bien que vous ne pouvez vous empêcher de tuer mes fils par orgueil; et, d'avoir des sociétés tant organisées que vous vous faîtes nu ultime devoir de couvrir le sol du sang de ceux qui ne sont point de vos intérêt?
-Puis le prince se remit à pleurer, et, au travers ses larmes échappa ces paroles : si j'eus été roi, la chasse aurait été prohibée; la coupe des arbres afin d'aménager des pâturages arrêtée sur-le-champs; et la consommation de viande aurait été frappée d'une taxe exorbitante grâce à un édit royal. <!--(décret, montée fulgurante des prix).-->
+Puis le prince se remit à pleurer, et, au travers ses larmes échappa ces paroles: si j'eus été roi, la chasse aurait été prohibée; la coupe des arbres afin d'aménager des pâturages arrêtée sur-le-champs; et la consommation de viande aurait été frappée d'une taxe exorbitante grâce à un édit royal. <!--(décret, montée fulgurante des prix).-->
 -Je vois bien que ton cœur est pur, reprit la louve, et tes larmes parlent pour toi; elles sont bien plus éloquentes que maints discours, car elles viennent du cœur.
   Viens, monte sur mon dos.
 -O déférente louve, vous me feriez cet honneur?
@@ -160,7 +160,7 @@ Et, il va sans dire que tous les animaux ont une place dans mon cœur, et jamais
 Si vous m'aider, s'emporta le prince, je vais installer des perchoirs par tout le royaume, et demanderai qu'ils soient toujours pleins de graines, afin que, éternels voyageurs que vous êtes, vous ayez toujours un lieu où vous reposer. »
 L'oiseau soupira.
 « Hé bien, soit. Je peux faire une exception semble-t-il. »
-Puis comme pour lui-même il ajouta : « Bon Dieu, quelle folie suis-je sur le point de commettre? »
+Puis comme pour lui-même il ajouta: « Bon Dieu, quelle folie suis-je sur le point de commettre? »
 
 Et l'oiseau reprit son envol.
 Le prince était reconnaissant de ce que la louve était bonne envers lui, il en était ému.
