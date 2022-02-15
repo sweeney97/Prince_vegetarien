@@ -13,20 +13,20 @@ Que mon ministre, mon bras droit, vous prenne à témoin.
 De là, à l'entrée de la forêt, vous y pénétrerez.
 Je vous dis cela, voyez-vous, car ma fin est proche!
 Mon trône appartiendra au plus agile, au plus preste, qui la traversera en premier.
-Ainsi sera l'épreuve.»
+Ainsi sera l'épreuve».
 Le roi expira peu de jours après.
 Seul le cadet pleura amèrement sa mort.
 Après les obsèques, conformément aux dernières volontés du père, ls trois fils se rendirent au Lac-à-l'Épaule, accompagné du ministre.
 L'homme du roi corda en rang d'oignon les trois fils, puis signala le commencement de l'épreuve.
-Puis, il chevaucha par le chemin qui contourne la forêt, afin d'attendre le gagnant à l'autre bout du labyrinthe végétal.
+Ensuite, il chevaucha par le chemin qui contourne la forêt, afin d'attendre le gagnant à l'autre bout du labyrinthe végétal.
 
 L'aîné, en prévision de ce jour, avait caché une montgolfière non loin, aussi se dépêcha-t-il de la préparer au vol: «Par la voie des airs, se disait-il, impossible de me perdre en forêt et je ne suis pas obligé de chevaucher.
 Par chance, le vent m'est favorable, c'est Dieu lui-même qui favorise mon entreprise.»
 Il ne tarda point à s'envoler dans les airs aux côtés des oiseaux.
-Quant à celui qui était vif et vigoureux, il pris un cannot dissimulé exprès en vue de ce moment: «par la voie des eaux se disait-il, impossible de me perdre, de plus, la rivière traverse la forêt sans trop de méandres, et j'y ai déjà navigué.
-Sans compter que le débit d'eau en cette heure est parfait, le niveau est ni trop haut ni trop bas, c'est là la preuve que le seigneur approuve mon règne futur! »
+Quant à celui qui était vif et vigoureux, il prit un cannot dissimulé exprès en vue de ce moment: «par la voie des eaux se disait-il, impossible de me perdre, de plus, la rivière traverse la forêt sans trop de méandres, et j'y ai déjà navigué.
+Sans compter que le débit d'eau en cette heure est parfait, le niveau est ni trop haut ni trop bas, c'est là la preuve que le Seigneur approuve mon règne futur! »
 Et le voilà parti sur l'eau, accompagné des poissons.
-Cependant le cadet était désespéré de voir ses frères si bien préparés et, surtout, nullement attristé par la mort de leur père, ou alors il cachait leur émotions adroitement.
+Cependant le cadet était désespéré de voir ses frères si bien préparés et, surtout, nullement attristé par la mort de leur père, ou alors cachaient-ils leurs émotions adroitement se dit-il.
 Pensant avoir perdu d'avance il s'assit sur un rocher et pleura, sanglotât.
 
 Un cheval vint à sa rencontre.
@@ -37,7 +37,7 @@ Un cheval vint à sa rencontre.
 -Oui, c'est moi, lâcha le pauvre homme dans un soupir.
 -Ainsi est-ce vrai, vous êtes de ces hommes qui ne mangent pas les bêtes? Même pas à l'occasion?
 -Je le jure devant Dieu, de mon berceau à ce jour, nulle viande pour mes repas, nulle bête tuée afin de me sustenter, et il en sera ainsi jusqu'à ma tombe.
-Enfant, c'est avec dédain que je refusais toute viande, enfant, et les servantes eurent beau tout essayer, rien n'y fit; j'en avais les haut-le-cœur lorsqu'elles approchaient leur cuillers pleine de bœuf près de ma bouche.
+Enfant, c'est avec dédain que je refusais toute viande, et les servantes eurent beau tout essayer, rien n'y fit; j'en avais les haut-le-cœur lorsqu'elles approchaient leurs cuillères pleine de bœuf près de ma bouche.
 -Alors je puis bien quelque chose pour vous! Grimpez sur mon dos, hennit le cheval».
 L'avenant animal transporta le prince, chevauchant, galopant, plus rapide que l'aquilon, au travers la prairie cerclée, puis pénétra la forêt.
 Aussitôt passé la lisère, le cheval s'arrêta.
@@ -47,10 +47,10 @@ Aussitôt passé la lisère, le cheval s'arrêta.
 -De nous bien ménager, nous les chevaux, s'il advenait que vous montassiez au trône, et de desserrer quelque peu notre mors.
 -Entendu répliqua simplement le prince.
 -En vérité, nous voilà rendu reprit le cheval.
-Nous sommes près de la tanière de la louve, car je ne peut point aller plus avant en la forêt; je suis plutôt accoutumé aux prairies, voyez-vous.
+Nous sommes près de la tanière de la louve, car je ne peut point aller plus avant en la forêt; je suis plutôt accoutumé aux prairies!
 Je vous laisse ici entre de bonnes pattes.
 Au plaisir de vous revoir.
--Moi de même.»
+-Moi de même, dit poliment le prince.»
 Puis le cheval repartit à l'amble.
 
  Un museau sorti d'un buisson.
@@ -83,23 +83,23 @@ Il s'empêtrait dans ses paroles décousues par l'émotion et le désespoir, mai
 D'ailleurs, qui me dit que tu ne serais pas qu'un gueux, un hypocrite et un menteur?
 -Mais que vous faut-il de plus, morbleu! qu'elle peine pèse sur votre cœur? »
 Et la louve, qui n'attendais que cela, déballa sa peine :
-« Écoute mes paroles, humain: j'ai pleuré mes louveteaux, mes cris ont déchirés la nuit perfide; relayés, amplifiés ar les échos alpins.
-Cette nuit-là, les pauvres paysans pris dans leur masure furent pétrifiés jusqu'à la moelle et ils drent se chuchoter entre eux, terrifiés :
--Quels cris abominables! combien cette bête doit souffrir!
+«Écoute mes paroles, humain: j'ai pleuré mes louveteaux, mes cris ont déchirés la nuit perfide; relayés, amplifiés par les échos alpins.
+Cette nuit-là, les pauvres paysans pris dans leur masure furent pétrifiés jusqu'à la moelle et ils durent se chuchoter entre eux, terrifiés :
+"Quels cris abominables! combien cette bête doit souffrir!"
 Voit comme la douleur gît dans mes prunelles!
 Ceci est la vérité! J'ai pleuré la perte de mes enfants comme naguère tu pleura celle de ton père.
 Des hommes, armés de fusils, ont tué mes petits.
 Alors répond moi franchement si tu ne veux point que mes crocs lacèrent ta gorge: dis-moi, homme, pourquoi mes fils sont morts?
-<!--  et pourquoi les tiens (détruisent, défrichent, coupent) les arbres?! -->
+<!--  et pourquoi les tiens (détruisent, défrichent, coupent) les arbres?!  Ce qui a poussé plus loin la louve e recherche de nourriture. -->
 Le prince, le cœur chagriné, dit: « Tes fils sont morts par orgueil de la part des hommes, et la forêt est rasée par caprice, j'en ai peur.
 -Voilà ce que vous êtes tous! Et tu oses quérir mon aide?
 -Ce n'est pas moi, c'est ce cheval qui…
--Foin des chevaux! Foin des hommes!
+-Fi des chevaux! Fi des hommes!
 -Mais les hommes ont du bon, et des qualités que nul autre être vivant ne possède.
-Ils font des choses si belles, seulement pour la beauté en elle-même, que les anges tressaillent de plaisir, et ils poussent des la réflexion si loin, dans des abysses si profonds, que même le seigneur tout-puissant s'y penche avec étonnement.
-De plus, il créent des instances et des sociétés organisées de manière complexe, à nulle autre pareille <!--rien de comparable en la nature.-->
--À quoi sert-il de faire de belles choses si vos âmes sont laides; de réfléchir si bien que vous ne pouvez vous empêcher de tuer mes fils par orgueil; et, d'avoir des sociétés tant organisées que vous vous faîtes nu ultime devoir de couvrir le sol du sang de ceux qui ne sont point de vos intérêt?
-Puis le prince se remit à pleurer, et, au travers ses larmes échappa ces paroles: si j'eus été roi, la chasse aurait été prohibée; la coupe des arbres afin d'aménager des pâturages arrêtée sur-le-champs; et la consommation de viande aurait été frappée d'une taxe exorbitante grâce à un édit royal. <!--(décret, montée fulgurante des prix).-->
+Ils font des choses si belles, seulement pour la beauté en elle-même, que les anges tressaillent de plaisir, et ils poussent la réflexion si loin, dans des abysses si profonds, que même le Seigneur Tout-Puissant s'y penche avec étonnement.
+De plus, ils créent des instances et des sociétés organisées de manière complexe, à nulle autre pareille. <!--rien de comparable en la nature.-->
+-À quoi sert-il de faire de belles choses si vos âmes sont laides; de réfléchir si bien que vous ne pouvez vous empêcher de tuer mes fils par orgueil; et, d'avoir des sociétés tant organisées que vous vous faîtes un ultime devoir de couvrir le sol du sang de ceux qui ne sont point de vos intérêt?
+Puis le prince se remit à pleurer, et, à travers ses larmes laissa tomber ces paroles: si j'eus été roi, la chasse aurait été prohibée; la coupe des arbres afin d'aménager des pâturages arrêtée sur-le-champ; et la consommation de viande aurait été frappée d'une taxe exorbitante grâce à un édit royal. <!--(décret, montée fulgurante des prix).-->
 -Je vois bien que ton cœur est pur, reprit la louve, et tes larmes parlent pour toi; elles sont bien plus éloquentes que maints discours, car elles viennent du cœur.
   Viens, monte sur mon dos.
 -O déférente louve, vous me feriez cet honneur?
@@ -109,7 +109,7 @@ Mais avant, tu dois me promettre une chose.
 -Tout ce que vous voudrez!
 -Érige un mémorial près du lac, à la gauche de l'arbre mort, là sont morts mes fils.
 -Je vous le promets. »
-Le prince enfourcha la louve, et cet étrange couple fila silencieusement au travers la végétation. <!--(préciser que la louve tue par nécessite).-->
+Le prince enfourcha la louve, et cet étrange couple fila silencieusement dans la végétation.
 
 « Vous savez que d'horribles histoires courent à votre sujet? Demanda le prince.
 -Courent-elles si vite et si loin? rétorqua l'animal entre deux halètements.
@@ -157,7 +157,7 @@ Combien en avez-vous chassé pour le fin plaisir de vos palais raffinés?
 Ou même pire, pour le simple plaisir?
 -Je le jure devant Dieu, de mon berceau à ce jour, nulle viande pour mes repas, nulle bête tuée afin de me sustenter, et il en sera ainsi jusqu'à ma tombe.
 Et, il va sans dire que tous les animaux ont une place dans mon cœur, et jamais je ne pourrai leur faire mal.
-Si vous m'aider, s'emporta le prince, je vais installer des perchoirs par tout le royaume, et demanderai qu'ils soient toujours pleins de graines, afin que, éternels voyageurs que vous êtes, vous ayez toujours un lieu où vous reposer. »
+Si vous m'aidez, s'emporta le prince, je vais installer des perchoirs par tout le royaume, et demanderai qu'ils soient toujours pleins de graines, afin que, éternels voyageurs que vous êtes, vous ayez toujours un lieu où vous reposer. »
 L'oiseau soupira.
 « Hé bien, soit. Je peux faire une exception semble-t-il. »
 Puis comme pour lui-même il ajouta: « Bon Dieu, quelle folie suis-je sur le point de commettre? »
@@ -170,11 +170,14 @@ Puis la louve éleva timidement la voix :
 Ils étaient faibles et mal nourris; je pensais même qu'ils n'allaient pas survivre la rigueur de la froide saison.
 J'étais parti chasser, je me hasardais dans la forêt, en des endroits qui, à l'époque, m'étaient encore inconnus.
 Je titubais; j'étais blessée à la patte gauche arrière.
-Seule l'image de mes fils me donnait la force de poursuivre au travers le blizzard.
+Seule l'image de mes fils me donnait la force de poursuivre dans l'épais blizzard.
 Puis je butta sur quelque chose; c'était deux enfants humains.
 Ils n'étaient pas morts, mais ce n'était qu'une question de minutes.
-Comprend-moi, gémit la louve, qui semblait pour gênée et mal à l'aise pour la première fois, c'était ces enfants ou les miens.
+Comprend-moi, gémit la louve, qui semblait gênée et mal à l'aise pour la première fois, c'était ces enfants ou les miens.
 Je n'avais pas le choix, je n'ai pas de regret, il n'y avait ni haine ni méchanceté dans mon acte; et c'est en les prenant dans mes crocs que deux villageois m’aperçurent. »
 Le prince resta muet quelques instants, éprouvant la profonde tristesse de la louve.
 
-<!--Après le ballon crevé, l’aîné chute mal et meurt. Ensuite un poisson suit la louve, et saute à intervalle afin de demander à la louve pourquoi et porte un humaine etc. etc. Le poisson aussi à une dette envers elle, il part rassembler les siens, chavirer le cannot du dernier frère, qui chute mal et meurt. À ce moment il sont à la sortie de la forêt. Le prince débarque de la louve, puis côte à côte se dirige vers l'orée. Discours de séparation, couronnement du roi. Fin. Retour sur les animaux, la statue, les perchoir, la viande taxée, la pêche interdite.-->
+<!--Après le ballon crevé, l’aîné chute mal et meurt. Ensuite un poisson suit la louve, et saute à intervalle afin de demander à la louve pourquoi et porte un humaine etc. etc. Le poisson aussi à une dette envers elle, il part rassembler les siens, chavirer le cannot du dernier frère, qui chute mal et meurt. À ce moment il sont à la sortie de la forêt. Le prince débarque de la louve, puis côte à côte se dirige vers l'orée. Discours de séparation, couronnement du roi. Fin. Retour sur les animaux, la statue, les perchoir, la viande taxée, la pêche interdite.
+
+Edit: ça serait drôle si le poisson avait une dette envers la merle, qu'elle décide d'utiliser pour répondre au prince, puisqu'elle est outrée lorsqu'elle entend le poisson raconter qu'il y a un homme sur un cannot. Elle se dit «quoi? nous, oiseaux, nous aurions pris le risque de crever ce ballon en vain? Un autre homme est dans la course?»
+-->
