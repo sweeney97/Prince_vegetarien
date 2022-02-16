@@ -51,7 +51,7 @@ Nous sommes près de la tanière de la louve, car je ne peut point aller plus av
 Je vous laisse ici entre de bonnes pattes.
 Au plaisir de vous revoir.
 -Moi de même, dit poliment le prince.»
-Puis le cheval repartit à l'amble.
+Puis le cheval repartit à l'amble. <!--Partir la course au fond de la prairie, pour qu'ils chevauchent au moins pendant une vingtaine de minutes-->
 
  Un museau sorti d'un buisson.
 «Qu'est-ce que cet imbécile de cheval m'a encore apporté?»
@@ -90,7 +90,7 @@ Voit comme la douleur gît dans mes prunelles!
 Ceci est la vérité! J'ai pleuré la perte de mes enfants comme naguère tu pleura celle de ton père.
 Des hommes, armés de fusils, ont tué mes petits.
 Alors répond moi franchement si tu ne veux point que mes crocs lacèrent ta gorge: dis-moi, homme, pourquoi mes fils sont morts?
-<!--  et pourquoi les tiens (détruisent, défrichent, coupent) les arbres?!  Ce qui a poussé plus loin la louve e recherche de nourriture. -->
+<!-- et pourquoi les tiens (détruisent, défrichent, coupent) les arbres?!  Ce qui a poussé plus loin la louve e recherche de nourriture. -->
 Le prince, le cœur chagriné, dit: « Tes fils sont morts par orgueil de la part des hommes, et la forêt est rasée par caprice, j'en ai peur.
 -Voilà ce que vous êtes tous! Et tu oses quérir mon aide?
 -Ce n'est pas moi, c'est ce cheval qui…
@@ -176,8 +176,55 @@ Ils n'étaient pas morts, mais ce n'était qu'une question de minutes.
 Comprend-moi, gémit la louve, qui semblait gênée et mal à l'aise pour la première fois, c'était ces enfants ou les miens.
 Je n'avais pas le choix, je n'ai pas de regret, il n'y avait ni haine ni méchanceté dans mon acte; et c'est en les prenant dans mes crocs que deux villageois m’aperçurent. »
 Le prince resta muet quelques instants, éprouvant la profonde tristesse de la louve.
+Ils chevauchèrent ainsi pendant de longues minutes, le prince était étonné par la résilience de l'animal, tant par ses histoires, que par sa course dans les bois; la louve était, malgré son âge, plus agile qu'une feuille au vent, ses enjambées étaient vives, ses sauts puissants et graciles, sans compter la charge qu'elle portait.
+Ses pensées furent interrompues par le bruissement d'ailes de la merle qui revient se poser près du prince.
+« Et puis? demanda pressement le prince. <!--avec empressement--->
+-Bon Dieu! laissez-moi atterrir! »
+La merle reprenait son souffle, visiblement exténuée par un difficile exercice.
+« Ça y est, réussi-t-elle à dire.
+Tous ensemble, nous y sommes parvenus.
+Nous avons crevé son ballon! Pépia triomphalement la merle.
+Nous sommes quittes, louve.
+-Entendu, fit-elle en ménageant son mot et son souffle.
+-Hourra! merci! merci mille fois! Le prince était si heureux qu'il peinait à se contenir.
+-Holà! cria la louve, gesticule un peu moins, là-haut, ou je risque de me casser un patte. »
+Ils approchèrent de la rivière qu'ils longèrent un peu, lorsqu'un poisson sembla vouloir attirer leur attention, sortant sa tête hors de l'eau de temps à autre pour les héler, nageant de sorte à pouvoir les suivre depuis la rivière.
+Évidemment, Le trio ne s'arrêta pas en pleine course.
+« Qu'est-ce encore? Je ne suis pas un omnibus ma parole, je ne prends plus de passager, ce poisson n'a qu'à s'étouffer dans sa rivière.
+-Doucement, rétorqua le prince, il pourrait détenir une information importante concernant mon frère. Ralentissez mais ne vous arrêtez point.
+-Voyons ce qu'il a à dire, ajouta pour sa part la merle, piquée de curiosité.
+-Misère de misère, pestiféra la louve qui ralentit.
+Le poisson réussit à les rejoindre, et s'exclama:
+-Une merle, un homme et un louve... voilà qui n'est pas commun. J'aurai juré que...
+-Qu'as-tu donc à dire, hareng? Un mot de travers et je mets fin à tes jours. <!---d'un coup de patte, de crocs?---->.
+-Pardon, fit le poisson, confondu par la menace, c'est qu'il y a une embarcation plus loin sur la rivière, vous devriez vous éloigner.
+Plusieurs des nôtres sont mort d'un coup de pique, un homme dangereux la dirige!
+-C'est mon frère, le scélérat! Il n'a de respect pour rien! S'il gagne cette course par la voie des eaux, il aura été inutile de crever la montgolfière. Si seulement les poissons de la rivières pourraient unir leur force et renverser cette chaloupe! <!--radeau-->
+-Comment? s'écria la merle outrée. J'ai risqué ma vie et celle des miens en vain? Quelle histoire! Et ces promesses de perchoirs, et de mangeoires remplies? Était-ce des paroles creuses?
+-Non, non! cria le prince. Écoutez-moi, il ne reste que cet autre dans la course qui décidera du prochain suzerain.
+Je vais faire, peut importe le vainqueur, tout ce qui sera en mon pouvoir pour réaliser mes paroles. »
+Mais la merle ne voulut rien entendre, elle était outrée.
+« Je me suis fais avoir, cervelle d'oiseau! cela m'apprendra à écouter les hommes, ah qu'elle perte de temps. Hareng, pépia-t-elle, interpelant le poisson qui tant bien que mal suivait la compagnie.
+-Oui?
+-Pourriez-vous vous mettre à plusieurs et renverser l'embarcation comme cet homme le demande?
+-J'ai bien peur que ce soit une tentative dangereuse et désespérée. J'aime bien mieux nager ailleurs. D'ailleurs, je voulais seulement vous avertir, mon devoir est fait.
+-Attend, poisson! intima la merle. Tu m'es redevable. T'en souviens-tu? L'automne passé, je vous ai averti pendant plusieurs semaines où se massaient les pêcheur afin que vous les évitassiez. Ainsi, vous avez survécu à la saison de pêches.
+-Oui, il est vrai que nous te sommes redevable, mais est-ce bien ainsi que tu désires user de ta dette?
+-Oui, fais comme cet homme le supplie, et vous ne me devrez plus rien.
+-À bon entendeur, salut! dit le poisson en disparaissant dans l'eau.
+-Sur mon nid, il est hors de question que j'ai crevé un ballon d'homme pour rien »
+Et la merle s'en alla à tire-d'aile, alors que le prince criait avec effusion ses remerciements.
 
-<!--Après le ballon crevé, l’aîné chute mal et meurt. Ensuite un poisson suit la louve, et saute à intervalle afin de demander à la louve pourquoi et porte un humaine etc. etc. Le poisson aussi à une dette envers elle, il part rassembler les siens, chavirer le cannot du dernier frère, qui chute mal et meurt. À ce moment il sont à la sortie de la forêt. Le prince débarque de la louve, puis côte à côte se dirige vers l'orée. Discours de séparation, couronnement du roi. Fin. Retour sur les animaux, la statue, les perchoir, la viande taxée, la pêche interdite.
+Puis la louve ralentit, et le prince, débarqua. Il pensa avoir atteint les limites de l'animal, mais la louve se contenta d'expliquer:
+« Si le plan de tes frère a été perturbé, il est peu de chances qu'ils s'en remettent, d'autant plus qu'ils devront s'orienter dans la forêt.
+Vous avez bien raison, dit le prince. »
+Ainsi la louve allait au trot, suivit de près par le prince, mais l'étrange couple ne semblait plus alarmé comme au début de leur course.
 
-Edit: ça serait drôle si le poisson avait une dette envers la merle, qu'elle décide d'utiliser pour répondre au prince, puisqu'elle est outrée lorsqu'elle entend le poisson raconter qu'il y a un homme sur un cannot. Elle se dit «quoi? nous, oiseaux, nous aurions pris le risque de crever ce ballon en vain? Un autre homme est dans la course?»
--->
+<!----
+Ils tombent sur le ballon crevé, et le prince voit simultanément ses deux frères morts: un échoué sur une petite grève, l'autre pendu dans un arbre. Pris de douleur, ils les enterre.
+
+Le prince est déchiré par la mort de ses deux frères, il dit n'avoir jamais demandé cela. Qu'il ne veut plus être roi. Qu'il regrette d'avoir fait confiance aux animaux. Les animaux se fâchent: c'est lui qui a demandé qu'on crève le ballon, qu'on renverse la chaloupe, les animaux n'ont qu'obéis. Le prince se fâche, explique que les hommes planifient de brander la forêt, qu'ils doivent agrandir leur terres agricoles. Que c'est ce que l'intendant du roi, gouverneur par intérim, avait planifié et qu'il expliquait cela au roi avant sa mort. Pour sa part, le prince explique qu'il se retirera de la vie humaine, partira en ermitage au-delà des monts brumeux aux sept crêtes, sur le plateau sauvage de Loundoum établira sa tente. Qu'il veut suivre les pas du seigneur, et que c'était son plan en cas du couronnement d'un de ses frères. Peut-être la louve pourrait-elle se fâcher aussi? Dire que les hommes sont tous idiots finalement.
+
+Mais l'esprit de la forêt prend en pitié le prince, alors qu'il l'observe enterrer ses frères.
+L'esprit de la forêt est deux écureuils, un noir et un blanc. L’écureuil blanc est assis à la manière d'un homme, les deux pattes devant lui, ses deux autres patte sur ses «genoux», sur une souche. Son frère mange des graines de tournesol sur un tournesol séché par l'automne, le tournesol pend en demi cercle et se balance au rythme de ses coups de pattes. Les âmes de ceux qui meurent dans la forêt font colorer les feuilles de l'arbre centenaire: elle se colorent en doré. L'écureuil noir par dans l'arbre chercher les âmes de ses frères et les rapporte (tout ce qui meurt dans la forêt lui appartient). Il insère l'âme de ses frère dans le ventre de la louve. Si les hommes brandent la forêt, les âmes de ses frères iront au shéol (géhenne), et hanteront ses rêves. Convaincu que c'est là un message de Dieu, le prince court jusqu'à l'orée de la forêt afin d'être couronné et d'accomplir toutes ses promesses (dont le mémorial). Plus tard, il retourne en la forêt, la louve rit de lui lorsqu'il lui explique qu'elle enfantera puisqu'elle affirme être trop vieille pour être fertile. Or, plus tard, elle devient enceinte pendant le règne du nouveau roi; ses louveteaux accompagne par la suite le roi en toutes occasions, et plus tard, même au combat. Il devient le roi au loup. *Rex Lupum*. Au Lac-à-l'épaule, un mémorial est érigé pour les frères du roi et pour les louveteaux de la louve.
+--->
