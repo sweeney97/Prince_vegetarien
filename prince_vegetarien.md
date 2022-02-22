@@ -227,4 +227,24 @@ Le prince est déchiré par la mort de ses deux frères, il dit n'avoir jamais d
 
 Mais l'esprit de la forêt prend en pitié le prince, alors qu'il l'observe enterrer ses frères.
 L'esprit de la forêt est deux écureuils, un noir et un blanc. L’écureuil blanc est assis à la manière d'un homme, les deux pattes devant lui, ses deux autres patte sur ses «genoux», sur une souche. Son frère mange des graines de tournesol sur un tournesol séché par l'automne, le tournesol pend en demi cercle et se balance au rythme de ses coups de pattes. Les âmes de ceux qui meurent dans la forêt font colorer les feuilles de l'arbre centenaire: elle se colorent en doré. L'écureuil noir par dans l'arbre chercher les âmes de ses frères et les rapporte (tout ce qui meurt dans la forêt lui appartient). Il insère l'âme de ses frère dans le ventre de la louve. Si les hommes brandent la forêt, les âmes de ses frères iront au shéol (géhenne), et hanteront ses rêves. Convaincu que c'est là un message de Dieu, le prince court jusqu'à l'orée de la forêt afin d'être couronné et d'accomplir toutes ses promesses (dont le mémorial). Plus tard, il retourne en la forêt, la louve rit de lui lorsqu'il lui explique qu'elle enfantera puisqu'elle affirme être trop vieille pour être fertile. Or, plus tard, elle devient enceinte pendant le règne du nouveau roi; ses louveteaux accompagne par la suite le roi en toutes occasions, et plus tard, même au combat. Il devient le roi au loup. *Rex Lupum*. Au Lac-à-l'épaule, un mémorial est érigé pour les frères du roi et pour les louveteaux de la louve.
+
+Morale:
+
+On peut tirer, comme morale,
+Que dans la vie, nous allons chemin faisant
+Avec l'abeille, l'oiseau, le cheval
+Et qu'il ne sert de rien, en nous différenciant
+De mettre d'un côté l'homme, de l'autre les bêtes
+Nos haleines habillement croisées par le Tout-Puissant
+Ne font qu'une, et qu'il faudrait apprendre ce sachant
+À s'entr'aider, à se respecter, en un mot à s'aimer
+Et que cela ne nous avance en rien de se manger
+
+On pourrait aussi ajouter, s'il fallait creuser plus avant
+Que nous ne cheminons jamais seul ici-bas
+Et qu'il peut s'avérer délicat
+Lorsque, des épreuves vient le temps
+D'être hargneux, hautain ou méchant
+Car l'un fort, contre plusieurs faibles perd assurément
+
 --->
