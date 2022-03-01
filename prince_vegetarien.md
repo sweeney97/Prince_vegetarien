@@ -212,41 +212,159 @@ Mais la merle ne voulut rien entendre, elle était outrée.
 -Oui, il est vrai que nous te sommes redevable, mais est-ce bien ainsi que tu désires user de ta dette?
 -Oui, fais comme cet homme le supplie, et vous ne me devrez plus rien.
 -À bon entendeur, salut! dit le poisson en disparaissant dans l'eau.
--Sur mon nid, il est hors de question que j'ai crevé un ballon d'homme pour rien »
+-Sur mon nid, il est hors de question que j'ai crevé un ballon d'homme pour rien! »
 Et la merle s'en alla à tire-d'aile, alors que le prince criait avec effusion ses remerciements.
 
-Puis la louve ralentit, et le prince, débarqua. Il pensa avoir atteint les limites de l'animal, mais la louve se contenta d'expliquer:
-« Si le plan de tes frère a été perturbé, il est peu de chances qu'ils s'en remettent, d'autant plus qu'ils devront s'orienter dans la forêt.
-Vous avez bien raison, dit le prince. »
-Ainsi la louve allait au trot, suivit de près par le prince, mais l'étrange couple ne semblait plus alarmé comme au début de leur course.
+Voyant que la louve commençait de s'épuiser, le prince lui proposa de faire une pause.
+Il débarqua de l'animal, et ils marchèrent quelques minutes, au trot.
+« Heureusement qui tu n'est n'est pas gras comme ses hommes qui s'empiffrent de viande, cracha la louve
+-Certes, on voyage toujours plus légèrement lorsqu'on ne participe point à la mort des autres, conclut-il. »
+Ils continuèrent ainsi quelques minutes, lorsque le prince intima à la louve de s'arrêter.
+Il perçut quelque chose au faîte d'un arbre, et poussa un cris d'horreur.
+« Seigneur! Mon frère... là haut!, balbutia-t-il »
+Le ballon crevé pris dans les hautes branches, comme capturé dans un filet, balançait sa nacelle et son réseaux de fils entrmêlés.
+La tête prise dans les fils, pendu, livide, le pilote oscillait au gré du vent.
+La louve eut un regard grave et le prince transporté [attéré], ne sahcant même pas comment exprimer sa douleur, tomba à genou.
+Il se frappa la proitine, se tira les cheveux et un long gémissement se faisait entendre.
+Or, le pauvre homme n'était pas au bout de ses peines.
+Alors qu'il était atteré [immobilisé, paralysé] par sa douleur, la louve était partie chercher quelque chose.
+Lorsqu'elle revient, elle tenait dans sa geule l'autre frère, le front ensanglanté, le regard perdu dans l'au-delà.
+« Je suis allé le cherche sur la berge, j'ai senti [flairé] qu'il y avait un troisième homme près de nous.
+Il s'est probablement ouvert le crâne sur une roche dans la rivière, lorsqu'il fut renversé... »
 
-<!----
-Ils tombent sur le ballon crevé, et le prince voit simultanément ses deux frères morts: un échoué sur une petite grève, l'autre pendu dans un arbre. Pris de douleur, ils les enterre.
+Traumatisé par l'annonce de la mort simultanée et subit de ses frères, le prince ne sut rien faire d'autre à ce moment que de joindre les mains, front au sol, et il commença de prier, tout en sanglotant.
+Pendant ce temps, la louve creusait tranquillement le sol de la forêt pour y déposer les deux corps.
+Un long moment passa, et le soleil était près de tremper dans le mer et d'y dispraître.
+Le prince se resaisit.
+« Que faites-vous là?
+-Je cresue leur tombe, ce n'est pas grand-chose mais ils auront au moins un lit.
+-Hors de question! nous les ramenons au royaume.
+-Penses-y bien, tu pourrais être accusé de meurtre et t'attirer la méfiance et l'animosité des tiens.
+-Moi! accusé de meurtre? Moi! qui n'ait jamais même osé tuer les rats du chateau, les pindades dans les champs pour la chasse, et le vieux cheval poussif du coursier? Moi, criminel! Dieu! Si il y a bien des assassins, c'est vous, les animaux!
+-Comment? Qu'est-ce que c'est encore que ce baratin?
+-Devant Dieu, je ne suis pas responsable de ces morts, et si ce n'est pas moi, alors ce doit être vous!
+-Nous? Nous! On voit bien le fond de ton âme dans l'adversité! Hé bien soit.
+Couvre nous de sang comme il te plaira, nous n'avons fait qu'obéir à *tes* odres.
+Dieu par ci, seigneur par là, mes enfants n'en sont pas moins mort ainsi que tes frères, et s'il plaisit vraiment à Dieu qu'il en fut autrement, nous serions pas endeuillé. J'ai dit.
+-Vous n'avez aucune conscience, vous les animaux! Mes frères morts, personne pour s'excuser, personne pour prendre le blâme.
+C'est cela oui, part, va-t-en, laisse-moi pleurer les miens.
+Je ne veux plus être roi, non.
+Je n'ai jamais voulu diriger sans mes frères à mes côtés, je laisserais le destin de régence à d'autre.
+J'irais au-delà des monts aux sept crêtes établir mon hermitage, vivre d'eau et de pain, et tenter par une vie vertueuse d'expier leur mort.
+Cela doit être une punition divine, la consquénce d'avoir frayer avec les bêtes.
+-Oublierais-tu les nombreuses promesses que tu nous as faites en échange de notre aide? Manquerais-tu à ta parole, humain?
+-Ces promesse n'étaient [tributaires] qu'à une victoire pacifiste, elle sont désormais caduques.
+D'ailleurs, le destin se chargera de vous punir: l'intendant du roi, qui faute de descandant sera au pouvoir par intérim, avait pour plan d'agrandir les terres agricoles au Sud du royaume, et grugeras années après années la forêt, il en fera des brandes...
+-Assez! Tu divagues, ton coeur est aveuglé par ta colère. Pour ma part j'en ai assez entendu, et je retourne à ma tannière, honteuse d'avoir daigné aider l'un des vôtre. Puisses-tu connaître le même sort que ta famille sur ton chemin vers le mont burmeux au sept crêtes. »
+Enragée, ne voulant plus rien entendre, elle s'engouffrant dans l'ombre naissant de la nuit, sans bruit.
 
-Le prince est déchiré par la mort de ses deux frères, il dit n'avoir jamais demandé cela. Qu'il ne veut plus être roi. Qu'il regrette d'avoir fait confiance aux animaux. Les animaux se fâchent: c'est lui qui a demandé qu'on crève le ballon, qu'on renverse la chaloupe, les animaux n'ont qu'obéis. Le prince se fâche, explique que les hommes planifient de brander la forêt, qu'ils doivent agrandir leur terres agricoles. Que c'est ce que l'intendant du roi, gouverneur par intérim, avait planifié et qu'il expliquait cela au roi avant sa mort. Pour sa part, le prince explique qu'il se retirera de la vie humaine, partira en ermitage au-delà des monts brumeux aux sept crêtes, sur le plateau sauvage de Loundoum établira sa tente. Qu'il veut suivre les pas du seigneur, et que c'était son plan en cas du couronnement d'un de ses frères. Peut-être la louve pourrait-elle se fâcher aussi? Dire que les hommes sont tous idiots finalement.
+Le prince se sentit seul, et sa détresse fut redoublée par la nuit.
+Il déposa les coprs de ses frères dans les tombes creusées par la louve, suivant tout de même son judicieux conseil.
+« Mieux vaut que personne ne sache ce qui s'est passé en cette forêt, seul Dieu le saura. »
+Tout en sanglotant discrètement, il recouvrait les corps.
 
-Mais l'esprit de la forêt prend en pitié le prince, alors qu'il l'observe enterrer ses frères.
-L'esprit de la forêt est deux écureuils, un noir et un blanc. L’écureuil blanc est assis à la manière d'un homme, les deux pattes devant lui, ses deux autres patte sur ses «genoux», sur une souche. Son frère mange des graines de tournesol sur un tournesol séché par l'automne, le tournesol pend en demi cercle et se balance au rythme de ses coups de pattes. Les âmes de ceux qui meurent dans la forêt font colorer les feuilles de l'arbre centenaire: elle se colorent en doré. L'écureuil noir par dans l'arbre chercher les âmes de ses frères et les rapporte (tout ce qui meurt dans la forêt lui appartient). Il insère l'âme de ses frère dans le ventre de la louve. Si les hommes brandent la forêt, les âmes de ses frères iront au shéol (géhenne), et hanteront ses rêves. Convaincu que c'est là un message de Dieu, le prince court jusqu'à l'orée de la forêt afin d'être couronné et d'accomplir toutes ses promesses (dont le mémorial). Plus tard, il retourne en la forêt, la louve rit de lui lorsqu'il lui explique qu'elle enfantera puisqu'elle affirme être trop vieille pour être fertile. Or, plus tard, elle devient enceinte pendant le règne du nouveau roi; ses louveteaux accompagne par la suite le roi en toutes occasions, et plus tard, même au combat. Il devient le roi au loup. *Rex Lupum*. Au Lac-à-l'épaule, un mémorial est érigé pour les frères du roi et pour les louveteaux de la louve.
+Un écureil tout noir, portant entre ses griffes un champignons luminscent qui lui servait de lanterne, observait tristement le prince.
+Une fois sa tâche accomplie, le prince se décida de prier toute la nuit.
+L'écureil déscendit de son perchoir, et, s'adressant au prince:
+« Je constate ta douleur, petit homme, et cela m'afflige profondément.
+Vient, suis-moi! »
+Il ne sut pourquoi, mais le prince se sentit appaisé par cette rencontre et eut l'intuition qu'il devait suivre le rongeur.
+Ils firent irruption dans une belle et grande clairière, illuminée par une multitude de plantes et de champignons luminescents, ainsi que par une foule de lucioles.
+Malgré cet éclarage féérique, il était difficile d'appercevoir nettement l'ensemble de la clairière, la lumière étant trop diffuse.
+Le prince apercut un autre écureil, tout blanc, assis sur une souche à la manière d'un homme, c'est-à-dire sur son séand. L'écureil noir prit place à ses côtés.
+D'une voix faibles sur laquelle pesait de nombreuses années, l'écureil blanc salua le prince:
+« Ah, si ce n'est pas le petit prince.
+Veuilles accepter mes plus sincères sympathies.
+Nous sommes l'esprit de cette forêt, et nous avons entendu vos plaintes. »
+L'écureil noir mangeait compulsivement des graines d'un tournesol séché replié sur sa longue tige et qui se balançait telle une pendule selon les coups de pattes du rongeur qui y pigeait.
+« Nous savons que tu tenait à tes frères, alors nos t'offront un présent qui, nous l'espérerons, adoucira ton chagrin. »
+L'écureil noir cessa soudainement de manger, et grimpa sur un arbre gigantesque, qui devait être le plus vieil arbre de la forêt.
+Certaines de ses feuilles étaients dorées, illuminées d'un chaude lumière.
+L'écureil noir en détacha deux, puis redescendit.
+L'un donna les feuilles à l'autre:
+« Merci. Voilà les âmes de tes frères.
+Ne sois pas surpris: tout ce qui meurt en la forêt y reste, c'est la règle.
+Ce soir, nous pénétreront dans la tannière de la louve ensommeillé, et lui insérerons ces deux âmes; ainsi, elle enfantera de nouveau, et tes frères renaîtront près de toi.
+En revanche, ne vous emballez guère, et écoutez cet avertissement: si les hommes déboisent cette forêt, ne serait-ce que d'une coudée, la louve mettra à bas des morts-né, et les âmes iront croupir dans le shéol [géhenne] et vos rêves seront à jamais des cauchemars.
+M'entendez-vous, jeune prince?
+- Oui, répondit-il solenelement.
+- Ainsi, allez montrer au royaume ce visage altier, séchez vos larmes et ceignez fièrement cette couronne. »
+Percevant cet échange et cette rencontre comme une réponse de Dieu à ses prières, le prince s'en fut par la forêt et en sortit à l'aube.
 
-Morale:
+Une fois au royaume, il fut chaudement accueilli, la foule curieuse se pressait pour apprendre la nouvelle; les crieurs répandirent le retour du plus jeune, désormais prétendant légitime à la succession du roi.
+Le prince passa toutefois la journée à dormir, exténué, et la cérémonie de couronnement n'eut lieu que le soir.
+Dès qu'il faut aux mains du royaume, le prince se fit un devoir de respecter chaque promesse qu'il avait tenu: il taxa les viandes, les poissons, aménageait des pataugeoire pour les oiseaux, fit installer nombre de perchoir et de mangeoirs remplies de graines, banissa la chasse récréative et promulgua nombre autres édits que nous passerons sous silence, de peur d'ennuyer le lecteur par des détails administratifs.
+Notons cependant qu'il promut vigoureusement le régime végétarien, assurant que c'était le seul à même de respecter la parole du Seigneur; ainsi les prêtres relayèrent cette nouvelle doctrine dans leur sermont, et les sujets firent de grandes économie, entendu que la viandes coûte plus chère que le blé, les poisson que l'avoine, etc.  
+Le nouveau investit dans l'expension agricole au Nord, mais ce nouveau besoin de terres arrables, qui ne pouvait plus passer par le déboisement au Sud, demandait d'entrer en guerre avec une petit royauté.
+Le prince décida d'attendre un peu, et ordonna entre-temps l'érection d'un mémorial pour la louve.
+Il lui rendit d'ailleurs visite pour lui annoncer la nouvelle, mais la rancunière ne voulut sortir le museau de sa tannière:
+« Tu es déjà assez chanceux que je souffre de t'écouter, et en plus tu voudrais que je sorte de chez moi? Hors de question.
+-Je suis désolé pour m'être fâché cette nuit, je ne demande pas que vous me pardonniez...
+-N'y compte pas, tranchea-t-elle.
+-Mais je tenais à ce que appreniez la nouvelle.
+Parlant de nouvelle... seriez-vous...
+-Suis-je? Allez, je n'ai pas tout l'après-midi, s'énerva-t-elle.
+-Enceinte?
+-Grand Dieu! Quelle insanité! Je suis bien trop vieille pour enfanter!
+-Me promettez-vous de visiter le mémorial s'il advenait que vous soyez enceinte?
+-Oui, oui, si cela te fait plaisir (et partir d'ici). Mais j'ai passé cet âge, maintenant laisse-moi dormir, je suis trop vieille pour ces contes.
+-Je n'invente rien, c'est l'esprit de la forêt qui me l'a annoncé.
+-Ce couple d'écureil sénile? Je n'auras pas trop d'attente à ta place, grommela-t-elle. »
+Puis elle s'en retourna dans le creux de sa tannière.
 
-On peut tirer, comme morale,
-Que dans la vie, nous allons chemin faisant
-Avec l'abeille, l'oiseau, le cheval
-Et qu'il ne sert de rien, en nous différenciant
-De mettre d'un côté les bêtes, de l'autre l'homme
-Nous partageons la même terre, faisons la somme
-Nos haleines habillement croisées par le Tout-Puissant
-Ne font qu'une, et qu'il faudrait apprendre ce sachant
-À s'entr'aider, à se respecter, en un mot à s'aimer
-Et que cela ne nous avance en rien de se manger
+Quequles mois plus tard, lorsque le mémorial fut terminé, une déléguation complète l'inaugura, et le roi était, évidemment, l'invité d'honneur et il compter raconter son histoire, expliquer pourquoi il avait demander d'ériger ce monument.
+Une fois sur place, au lac-à-l'épaule, il y trouva la louve, enceinte, couchée devant.
+Elle semblait émue, à la fois puisqu'elle était gravide, mais aussi pour le mémorial.
+« Tu as dit vrai, homme, et je porte en mon sein l'âme de tes deux frères.
+-Aujourd'hui est un jour doublement heureux, nous célébrerons tant ce mémorial, et ton histoire, ainsi que ta portée à venir. »
 
-On pourrait aussi ajouter, s'il fallait creuser plus avant
-Que nous ne cheminons jamais seul ici-bas
-Et qu'il peut s'avérer délicat
-Lorsque, des épreuves vient le temps
+Trois mois passèrent, et la louve mit à bas sa portée. Deux louveteau.
+Le roi passait souvant la voir, en forêt, et ils en profitaient pour se ballader, et discuter avec l'esprit de la forêt, les poissons, les oiseaux ainsi qu'avec tous les autres animaux. 
+Les années passèrent, et les louveteaux grandirent, leur mère s'éteignit, heureuse.
+La population grandissante et la diminution de la consomation de viande augmentant la demande pour les céréales, ce qui poussa le roi à entreprendre une campagne militaire contre la petite royauté du nord.
+Il alla au combat couragesement, chevauchant, un autre à ses côtés, et cette seule vision remplissait de terreur ses enemis, si bien qu'il gagna aisément tous ses combats.
+De là il passa à l'histoire et il fut appelé le roi au loups, *Rex Lupum*.
+S'il fut considéré comme un bon roi, aimant de la nature, friand des balades en forêts, il fut aussi considéré comme sans pitité au combat; les conquêtes suivaient ses pas, et il aggrandit considérablement le royaume de son père, aidé par ses deux frères.
 
-D'être hargneux, hautain ou méchant
-Car l'un fort, contre plusieurs faibles perd assurément
+ ***
 
---->
+*Morale:*
+
+
+*On peut tirer, comme morale,*
+
+*Que dans la vie, nous allons chemin faisant*
+
+*Avec l'abeille, l'oiseau, le cheval*
+
+*Et qu'il ne sert de rien, en nous différenciant*
+
+*De mettre d'un côté les bêtes, de l'autre l'homme*
+
+*Nous partageons la même terre, faisons la somme*
+
+*Nos haleines habillement croisées par le Tout-Puissant*
+
+*Ne font qu'une, et qu'il faudrait apprendre ce sachant*
+
+*À s'entr'aider, à se respecter, en un mot à s'aimer*
+
+*Et que cela ne nous avance en rien de se manger*
+
+</br>
+
+*On pourrait aussi ajouter, s'il fallait creuser plus avant*
+
+*Que nous ne cheminons jamais seul ici-bas*
+
+*Et qu'il peut s'avérer délicat*
+
+*Lorsque, des épreuves vient le temps*
+
+</br>
+
+*D'être hargneux, hautain ou méchant*
+
+*Car l'un fort, contre plusieurs faibles perd assurément*
+
+FIN
