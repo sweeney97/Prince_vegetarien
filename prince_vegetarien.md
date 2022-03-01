@@ -234,7 +234,8 @@ On peut tirer, comme morale,
 Que dans la vie, nous allons chemin faisant
 Avec l'abeille, l'oiseau, le cheval
 Et qu'il ne sert de rien, en nous différenciant
-De mettre d'un côté l'homme, de l'autre les bêtes
+De mettre d'un côté les bêtes, de l'autre l'homme
+Nous partageons la même terre, faisons la somme
 Nos haleines habillement croisées par le Tout-Puissant
 Ne font qu'une, et qu'il faudrait apprendre ce sachant
 À s'entr'aider, à se respecter, en un mot à s'aimer
@@ -244,6 +245,7 @@ On pourrait aussi ajouter, s'il fallait creuser plus avant
 Que nous ne cheminons jamais seul ici-bas
 Et qu'il peut s'avérer délicat
 Lorsque, des épreuves vient le temps
+
 D'être hargneux, hautain ou méchant
 Car l'un fort, contre plusieurs faibles perd assurément
 
