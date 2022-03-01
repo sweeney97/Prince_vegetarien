@@ -81,7 +81,7 @@ Au plaisir de vous revoir.
 
 -Moi de même, dit poliment le prince. »
 
-Puis le cheval repartit à l'amble. <!--Partir la course au fond de la prairie, pour qu'ils chevauchent au moins pendant une vingtaine de minutes-->
+Puis le cheval repartit à l'amble.
 
 <br>
 <br>
@@ -144,8 +144,10 @@ Cette nuit-là, les pauvres paysans pris dans leur masure furent pétrifiés jus
 Voit comme la douleur gît dans mes prunelles!
 Ceci est la vérité! J'ai pleuré la perte de mes enfants comme naguère tu pleura celle de ton père.
 Des hommes, armés de fusils, ont tué mes petits.
-Alors répond moi franchement si tu ne veux point que mes crocs lacèrent ta gorge: dis-moi, homme, pourquoi mes fils sont morts? »
-<!-- et pourquoi les tiens (détruisent, défrichent, coupent) les arbres?!  Ce qui a poussé plus loin la louve e recherche de nourriture. -->
+Alors répond moi franchement si tu ne veux point que mes crocs lacèrent ta gorge: dis-moi, homme, pourquoi mes fils sont morts?
+Et pourquoi les tiens déboisent la forêt?
+C'est pour cette raison que j'ai dû chercher toujours plus loins ma pitance, m'aventurant hors de la forêt. »
+
 Le prince, le cœur chagriné, dit:
 
 « Tes fils sont morts par orgueil de la part des hommes, et la forêt est rasée par caprice, j'en ai peur.
@@ -158,13 +160,13 @@ Le prince, le cœur chagriné, dit:
 
 -Mais les hommes ont du bon, et des qualités que nul autre être vivant ne possède.
 Ils font des choses si belles, seulement pour la beauté en elle-même, que les anges tressaillent de plaisir, et ils poussent la réflexion si loin, dans des abysses si profonds, que même le Seigneur Tout-Puissant s'y penche avec étonnement.
-De plus, ils créent des instances et des sociétés organisées de manière complexe, à nulle autre pareille. <!--rien de comparable en la nature.-->
+De plus, ils créent des instances et des sociétés organisées de manière complexe dont rien n'est comparable en la nature.
 
 -À quoi sert-il de faire de belles choses si vos âmes sont laides; de réfléchir si bien que vous ne pouvez vous empêcher de tuer mes fils par orgueil; et, d'avoir des sociétés tant organisées que vous vous faîtes un ultime devoir de couvrir le sol du sang de ceux qui ne sont point de vos intérêt? »
 
 Puis le prince se remit à pleurer, et, à travers ses larmes laissa tomber ces paroles:
 
-« Si j'eus été roi, la chasse aurait été prohibée; la coupe des arbres afin d'aménager des pâturages arrêtée sur-le-champ; et la consommation de viande aurait été frappée d'une taxe exorbitante grâce à un édit royal. <!--(décret, montée fulgurante des prix).-->
+« Si j'eus été roi, la chasse aurait été prohibée; la coupe des arbres afin d'aménager des pâturages arrêtée sur-le-champ; et la consommation de viande aurait été frappée d'une taxe exorbitante grâce à un édit royal.
 
 -Je vois bien que ton cœur est pur, reprit la louve, et tes larmes parlent pour toi; elles sont bien plus éloquentes que maints discours, car elles viennent du cœur.
 Viens, monte sur mon dos.
@@ -290,7 +292,7 @@ Le prince resta muet quelques instants, éprouvant la profonde tristesse de la l
 Ils chevauchèrent ainsi pendant de longues minutes, le prince était étonné par la résilience de l'animal, tant par ses histoires, que par sa course dans les bois; la louve était, malgré son âge, plus agile qu'une feuille au vent, ses enjambées étaient vives, ses sauts puissants et graciles, sans compter la charge qu'elle portait.
 Ses pensées furent interrompues par le bruissement d'ailes de la merle qui revient se poser près du prince.
 
-« Et puis? demanda pressement le prince. <!--avec empressement--->
+« Et puis? demanda avec empressement le prince.
 
 -Bon Dieu! laissez-moi atterrir! »
 La merle reprenait son souffle, visiblement exténuée par un difficile exercice.
@@ -321,12 +323,12 @@ Le poisson réussit à les rejoindre, et s'exclama:
 
 « Une merle, un homme et un louve... voilà qui n'est pas commun. J'aurai juré que...
 
--Qu'as-tu donc à dire, hareng? Un mot de travers et je mets fin à tes jours. <!---d'un coup de patte, de crocs?---->.
+-Qu'as-tu donc à dire, hareng? Un mot de travers et je mets fin à tes jours.
 
 -Pardon, fit le poisson, confondu par la menace, c'est qu'il y a une embarcation plus loin sur la rivière, vous devriez vous éloigner.
 Plusieurs des nôtres sont mort d'un coup de pique, un homme dangereux la dirige!
 
--C'est mon frère, le scélérat! Il n'a de respect pour rien! S'il gagne cette course par la voie des eaux, il aura été inutile de crever la montgolfière. Si seulement les poissons de la rivières pourraient unir leur force et renverser cette chaloupe! <!--radeau-->
+-C'est mon frère, le scélérat! Il n'a de respect pour rien! S'il gagne cette course par la voie des eaux, il aura été inutile de crever la montgolfière. Si seulement les poissons de la rivières pourraient unir leur force et renverser cette chaloupe!
 
 -Comment? s'écria la merle outrée. J'ai risqué ma vie et celle des miens en vain? Quelle histoire! Et ces promesses de perchoirs, et de mangeoires remplies? Était-ce des paroles creuses?
 
@@ -347,13 +349,19 @@ Mais la merle ne voulut rien entendre, elle était outrée.
 
 -Oui, il est vrai que nous te sommes redevable, mais est-ce bien ainsi que tu désires user de ta dette?
 
--Oui, fais comme cet homme le supplie, et vous ne me devrez plus rien.
+-Oui, fais comme cet homme le supplie, et vous ne me devrez plus rien. »
+
+Puis le hareng demanda à l'homme:
+
+« Dites-moi, avant que je ne vous vienne en aide, êtes-vous de ce ceux qui s'amusent à crocheter la gueules des miens?
+
+-Je le jure devant Dieu, de mon berceau à ce jour, nulle viande pour mes repas, nulle bête tuée afin de me sustenter, et il en sera ainsi jusqu'à ma tombe.
 
 -À bon entendeur, salut! dit le poisson en disparaissant dans l'eau.
 
--Sur mon nid, il est hors de question que j'ai crevé un ballon d'homme pour rien! »
+-Sur mon nid, il est hors de question que j'ai crevé un ballon d'homme pour rien! soupira la merle. »
 
-Et la merle s'en alla à tire-d'aile, alors que le prince criait avec effusion ses remerciements.
+Et elle s'envola à tire-d'aile, alors que le prince criait avec effusion ses remerciements.
 
 <br>
 <br>
@@ -375,10 +383,10 @@ La tête prise dans les fils, pendu, livide, le pilote oscillait au gré du vent
 La louve eut un regard grave et le prince transporté, ne sachant même pas comment exprimer sa douleur, tomba à genou.
 Il se frappa la poitrine, se tira les cheveux et un long gémissement se faisait entendre.
 Or, le pauvre homme n'était pas au bout de ses peines.
-Alors qu'il était atterré [immobilisé, paralysé] par sa douleur, la louve était partie chercher quelque chose.
+Alors qu'il était atterré par sa douleur, la louve était partie chercher quelque chose.
 Lorsqu'elle revient, elle tenait dans sa gueule l'autre frère, le front ensanglanté, le regard perdu dans l'au-delà.
 
-« Je suis allé le cherche sur la berge, j'ai senti [flairé] qu'il y avait un troisième homme près de nous.
+« Je suis allé le cherche sur la berge, j'ai flairé qu'il y avait un troisième homme près de nous.
 Il s'est probablement ouvert le crâne sur une roche dans la rivière, lorsqu'il fut renversé... »
 
 <br>
@@ -416,7 +424,7 @@ Cela doit être une punition divine, la conséquence d'avoir frayé avec les bê
 
 -Oublierais-tu les nombreuses promesses que tu nous as faites en échange de notre aide? Manquerais-tu à ta parole, humain?
 
--Ces promesse n'étaient [tributaires] qu'à une victoire pacifiste, elle sont désormais caduques.
+-Ces promesse étaient tributaires d'une victoire pacifiste, elle sont désormais caduques.
 D'ailleurs, le destin se chargera de vous punir: l'intendant du roi, qui faute de descendant sera au pouvoir par intérim, avait pour plan d'agrandir les terres agricoles au Sud du royaume, et grugeras années après années la forêt, il en fera des brandes...
 
 -Assez! Tu divagues, ton cœur est aveuglé par ta colère. Pour ma part j'en ai assez entendu, et je retourne à ma tanière, honteuse d'avoir daigné aider l'un des vôtre. Puisses-tu connaître le même sort que ta famille sur ton chemin vers le mont brumeux au sept crêtes. »
@@ -461,7 +469,7 @@ L'un donna les feuilles à l'autre:
 « Merci. Voilà les âmes de tes frères.
 Ne sois pas surpris: tout ce qui meurt en la forêt y reste, c'est la règle.
 Ce soir, nous pénétreront dans la tanière de la louve ensommeillé, et lui insérerons ces deux âmes; ainsi, elle enfantera de nouveau, et tes frères renaîtront près de toi.
-En revanche, ne vous emballez guère, et écoutez cet avertissement: si les hommes déboisent cette forêt, ne serait-ce que d'une coudée, la louve mettra à bas des morts-né, et les âmes iront croupir dans le shéol [géhenne] et vos rêves seront à jamais des cauchemars.
+En revanche, ne vous emballez guère, et écoutez cet avertissement: si les hommes déboisent cette forêt, ne serait-ce que d'une coudée, la louve mettra à bas des morts-né, et les âmes iront croupir dans la géhenne et vos rêves seront à jamais des cauchemars.
 M'entendez-vous, jeune prince?
 
 -Oui, répondit-il solennellement.
