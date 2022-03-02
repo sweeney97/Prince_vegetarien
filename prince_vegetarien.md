@@ -535,8 +535,6 @@ Ainsi, il répandit durablement le régime végétarien sur tout le continent, e
 
 &nbsp;&nbsp;&nbsp;&nbsp;Aujourd'hui encore, il est possible d'admirer le mémorial de la louve au Lac-à-l'Épaule, qui nous rappelle le destin croisé qu'entretiennent les bêtes et les hommes.
 
- ***
-
 \
 
 *Morale:*
