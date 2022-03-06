@@ -14,7 +14,7 @@ Il réunit ses fils et leur dit:
 
 « Quand enfin je tiendrai la main du Seigneur, prenez le chemin au sud qui contourne les bois jusqu'au Lac-à-l'Épaule.
 Que mon ministre, mon bras droit, vous prenne à témoin.
-De là, à l'entrée de la forêt, vous y pénétrerez.
+De là, à l'entrée de la forêt, vous y pénétrerez. <!--donner un nom à la forêt?-->
 Je vous dis cela, voyez-vous, car ma fin est proche!
 Mon trône appartiendra au plus agile, au plus preste, qui la traversera en premier.
 Ainsi sera l'épreuve ».
