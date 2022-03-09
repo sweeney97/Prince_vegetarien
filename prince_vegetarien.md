@@ -8,13 +8,13 @@ L'un était grand, le front dégagé et digne, savant, érudit; l'aîné.
 L'autre était petit, robuste, vif et aventureux.
 Le dernier, le cadet, était de taille moyenne, d'une physionomie heureuse et d'un tempérament doux.
 Il se plaisait aux balades en forêt, fin observateur qu'il était, et jamais ne l'avait-on vu manger de viande, car pour lui la nature entière, œuvre du Tout-Puissant, était un temple sacré; les animaux en son cœur étaient ses égaux et même certains étaient de ses compagnons.
-En cela il était incompris par ses frères qui le considéraient stupide, niais; ils le traitaient comme le maillon faible de la lignée royale, comme un homme chétif, efféminé.
+En cela, il était incompris par ses frères qui le considéraient stupide, niais; ils le traitaient comme le maillon faible de la lignée royale, comme un homme chétif, efféminé.
 Le roi se faisant vieux, il devint un jour gravement malade.
 Il réunit ses fils et leur dit:
 
 « Quand enfin je tiendrai la main du Seigneur, prenez le chemin au sud qui contourne les bois jusqu'au Lac-à-l'Épaule.
 Que mon ministre, mon bras droit, vous prenne à témoin.
-De là, à l'entrée de la forêt, vous y pénétrerez. <!--donner un nom à la forêt?-->
+De là, du fond de la prairie qui précède l'orée, vos débuterez l'épreuve.
 Je vous dis cela, voyez-vous, car ma fin est proche!
 Mon trône appartiendra au plus agile, au plus preste, qui la traversera en premier.
 Ainsi sera l'épreuve ».
@@ -26,7 +26,6 @@ Seul le cadet pleura amèrement sa mort.
 
 &nbsp;&nbsp;&nbsp;&nbsp;Une fois les obsèques terminées, conformément aux dernières volontés du père, les trois fils se rendirent au Lac-à-l'Épaule, accompagné du ministre.
 L'homme du roi corda en rang d'oignon les trois fils, puis signala le commencement de l'épreuve.
-Ensuite, il chevaucha par le chemin qui contourne la forêt, afin d'attendre le gagnant à l'autre bout du labyrinthe végétal.
 
 L'aîné, en prévision de ce jour, avait caché une montgolfière non loin, aussi se dépêcha-t-il de la préparer au vol:
 
@@ -36,24 +35,24 @@ Par chance, le vent m'est favorable, c'est Dieu lui-même qui supervise mon entr
 Il ne tarda point à s'envoler dans les airs aux côtés des oiseaux.
 Quant à celui qui était vigoureux, il prit un canot dissimulé exprès en vue de ce moment:
 
-« Par la voie des eaux se disait-il, impossible de me perdre, de plus, la rivière traverse la forêt sans trop de méandres, et j'y ai déjà navigué.
+« Par la voie des eaux, se disait-il, impossible de me perdre, de plus, la rivière traverse la forêt sans trop de méandres, et j'y ai déjà navigué.
 Sans compter que le débit d'eau en cette heure est parfait, le niveau est ni trop haut ni trop bas, c'est là la preuve que le Seigneur approuve mon règne futur! »
 
 Et le voilà parti sur l'eau, accompagné des poissons.
 Cependant, le cadet était désespéré de voir ses frères si bien préparés et, surtout, nullement attristés par la mort de leur père, ou alors cachaient-ils leurs émotions adroitement, pensait-il.
-Pensant avoir perdu d'avance, il s'assit sur un rocher et sanglota.
+Convaincu d'avoir perdu d'avance, il s'assit sur un rocher et sanglota.
 Un cheval vint à sa rencontre.
 
 « Pourquoi pleures-tu, lui demanda-t-il.
 
--Car mon père est mort, et mes vils frères s'empareront du royaume, et je ne puis rien faire sinon assister à cette injustice.
+-Car mon père est mort, et mes frères s'empareront du royaume, et je ne puis rien faire sinon assister à cette injustice.
 Il me faudrait pouvoir changer en courant d'air, traverser la forêt, caressant les arbres, et arriver au trône devant eux!
 
 -Par Pégase, Celeris et Arion! Mais seriez-vous le prince ami des animaux?
 
 -Oui, c'est moi, lâcha le pauvre homme dans un soupir.
 
--Ainsi est-ce vrai, vous êtes de ces hommes qui ne mangent pas les bêtes? Même pas à l'occasion?
+-Ainsi est-ce vrai, vous êtes de ces hommes qui ne mangent point de bêtes? Même pas à l'occasion?
 
 -Je le jure devant Dieu, de mon berceau à ce jour, nulle viande pour mes repas, nulle bête tuée afin de me sustenter, et il en sera ainsi jusqu'à ma tombe.
 Enfant, c'est avec dédain que je refusais toute viande, et les servantes eurent beau tout essayer, rien n'y fit; j'en avais les haut-le-cœur lorsqu'elles approchaient leurs cuillères pleines de bœuf en bouillie près de ma bouche.
@@ -71,7 +70,7 @@ Aussitôt passé la lisère, le cheval s'arrêta.
 
 -De nous bien ménager, nous les chevaux, s'il advenait que vous montassiez au trône, et de desserrer quelque peu notre mors.
 
--Entendu répliqua simplement le prince.
+-Entendu, répliqua simplement le prince.
 
 -En vérité, nous voilà rendus, reprit le cheval.
 Nous sommes près de la tanière de la louve, car je ne peux point aller plus avant en la forêt; je suis plutôt accoutumé aux prairies!
@@ -139,18 +138,16 @@ D'ailleurs, qui me dit que tu ne serais pas qu'un gueux, un hypocrite et un ment
 Et la louve, qui n'attendait que cela, déballa sa peine :
 
 « Écoute mes paroles, humain: j'ai pleuré mes louveteaux, mes cris ont déchiré la nuit; relayés, amplifiés par les échos alpins.
-Cette nuit-là, les pauvres paysans pris dans leur masure furent pétrifiés jusqu'à la moelle et ils durent se chuchoter entre eux, terrifiés :
+Par un soir aux présages sinistres, les pauvres paysans pris dans leur masure furent pétrifiés jusqu'à la moelle et ils durent se chuchoter entre eux, terrifiés :
 "Quels cris abominables! combien cette bête doit souffrir!"
 Vois comme la douleur gît dans mes prunelles!
 Ceci est la vérité! J'ai pleuré la perte de mes enfants comme naguère tu pleuras celle de ton père.
 Des hommes, armés de fusils, ont tué mes petits.
-Alors réponds-moi franchement si tu ne veux point que mes crocs lacèrent ta gorge: homme, pourquoi mes fils sont morts?
-Et pourquoi les tiens déboisent la forêt?
-C'est pour cette raison que j'ai dû chercher toujours plus loin ma pitance, m'aventurant hors des bois. »
+Alors réponds-moi franchement si tu ne veux point que mes crocs lacèrent ta gorge: homme, pourquoi mes fils sont morts? »
 
 Le prince, le cœur chagriné, dit:
 
-« Tes fils sont morts par orgueil de la part des hommes, et la forêt est rasée par caprice, j'en ai peur.
+« Tes fils sont morts en raison d'une peur injustifiée de la part des hommes, j'en ai peur.
 
 -Voilà ce que vous êtes tous! Et tu oses quérir mon aide?
 
@@ -166,7 +163,7 @@ De plus, ils créent des instances et des sociétés organisées de manière com
 
 Puis le prince se remit à pleurer, et, à travers ses larmes laissa tomber ces paroles:
 
-« Si j'eus été roi, la chasse aurait été prohibée; la coupe des arbres afin d'aménager des pâturages arrêtée sur-le-champ; et la consommation de viande aurait été frappée d'une taxe exorbitante grâce à un édit royal.
+« Si j'eus été roi, la chasse aurait été prohibée; la coupe des arbres afin d'aménager des pâturages arrêtée sur-le-champ; et la consommation de viande aurait été frappée d'une taxe exorbitante en vertu d'un édit royal.
 
 -Je vois bien que ton cœur est pur, reprit la louve, et tes larmes parlent pour toi; elles sont bien plus éloquentes que maints discours, car elles viennent du cœur.
 Viens, monte sur mon dos.
@@ -224,11 +221,11 @@ Un de mes amis a payé de sa vie d'avoir été curieux; il s'était approché qu
 C'est une triste affaire.
 
 -C'est mon frère! Assurément! Quel homme perfide!
-Il a sûrement tué cet oiseau afin de tous les éloigner.
+Il aura tué cet oiseau afin de lancer un avertissement.
 
 -Drôle de manière de se faire comprendre, maugréa l'oiseau.
 
--Vous désirez vous venger?
+-Comme vous pouvez le constater, nous sommes en pleine course et l'issue déterminera le prochain roi. Vous désirez vous venger? Votre vengeance pourrait nous être utile.
 
 -Moi, je n'y tiens pas particulièrement, ce sont des choses qui arrivent, mais j'en connais d'autres qui brûlent de ce désir.
 
@@ -237,7 +234,7 @@ Il a sûrement tué cet oiseau afin de tous les éloigner.
 -Rien. Attaquer un homme est bien trop dangereux.
 En général, je ne les approche pas, afin d'éviter les ennuis.
 
--Si seulement, gent ailée, vous pouviez me rendre un service!
+-Si seulement, gent ailée, vous pourriez me rendre un service! <!--Sauf erreur de ma part, le conditionnel est incorrect lorsque le « si » introduit une condition. Dans d'autre cas, comme lors d'une interrogation indirecte, le conditionnel est possible. Ici: « pourriez-vous me rendre un service? » -->
 Seriez-vous capable de l'attaquer en masse et de crever son ballon? »
 
 L'oiseau réfléchit un moment.
@@ -246,7 +243,7 @@ L'oiseau réfléchit un moment.
 Mais je ne vous dois rien, absolument rien, conclut-il.
 
 -Moi si, lâcha la louve à la surprise des deux autres.
-Souviens-toi, merle, j'ai protégé cet œuf, ton enfant.
+Souviens-toi, merle, j'ai protégé cet oisillon, ton enfant.
 Je te l'avais apporté malgré ma faim, malgré le froid, malgré l'hiver.
 
 -Je m'en souviens, mais est-ce bien maintenant et pour cet homme que tu connais à peine que tu veux utiliser cette dette que j'ai envers toi?
@@ -255,7 +252,7 @@ Je te l'avais apporté malgré ma faim, malgré le froid, malgré l'hiver.
 
 -Vous êtes chanceux que la louve vous tienne en si haute estime, jeune homme.
 Mais je n'aiderai pas votre espèce.
-Combien des miens avez-vous mangé, prince?
+Combien des miens avez-vous mangé, homme?
 Combien en avez-vous chassé pour le fin plaisir de vos palais raffinés?
 Ou même pire, pour le simple plaisir?
 
@@ -289,7 +286,7 @@ Comprends-moi, gémit la louve, qui semblait gênée et mal à l'aise pour la pr
 Je n'avais pas le choix, je n'ai pas de regret, il n'y avait ni haine ni méchanceté dans mon acte. »
 
 Le prince resta muet quelques instants, éprouvant la profonde tristesse de la louve.
-Ils chevauchèrent ainsi pendant de longues minutes; il était étonné par la résilience de l'animal, tant par ses histoires, que par sa course dans les bois; la louve était, malgré son âge, plus agile qu'une feuille au vent, ses enjambées étaient vives, ses sauts puissants et graciles, sans compter la charge qu'elle portait.
+Ils chevauchèrent ainsi pendant de longues minutes. Il était étonné par la résilience de l'animal, tant par ses histoires, que par sa course dans les bois; la louve était, malgré son âge, plus agile qu'une feuille au vent, ses enjambées étaient vives, ses sauts puissants et graciles, sans compter la charge qu'elle portait.
 Ses pensées furent interrompues par le bruissement d'ailes de la merle qui revient se poser près du prince.
 
 « Et puis? demanda avec empressement le prince.
@@ -302,7 +299,7 @@ Tous ensemble, nous y sommes parvenus.
 Nous avons crevé son ballon! pépia triomphalement la merle.
 Nous sommes quittes, louve.
 
--Entendu, fit-elle en ménageant son mot et son souffle.
+-Entendu, dit-elle.
 
 -Hourra! merci! merci mille fois! Le prince était si heureux qu'il peinait à se contenir.
 
@@ -330,9 +327,9 @@ Plusieurs des nôtres sont morts d'un coup de pique, un homme dangereux la dirig
 
 -C'est mon frère, le scélérat! Il n'a de respect pour rien! S'il gagne cette course par la voie des eaux, il aura été inutile de crever la montgolfière. Si seulement les poissons de la rivière pouvaient unir leur force et renverser ce canot!
 
--Comment? s'écria la merle outrée. J'ai risqué ma vie et celle des miens en vain? Quelle histoire! Et ces promesses de perchoirs, et de mangeoires remplies? Était-ce des paroles creuses?
+-Comment? s'écria la merle outrée. Il y a un autre concurrent dans cette course? J'ai risqué ma vie et celle des miens en vain? Quelle histoire! Et ces promesses de perchoirs, et de mangeoires remplies? Était-ce des paroles creuses?
 
--Non, non! cria le prince. Écoutez-moi, il ne reste que cet autre dans la course qui décidera du prochain roi.
+-Non, non! cria le prince. Écoutez-moi, il ne reste que cet autre.
 Je vais faire, peu importe le vainqueur, tout ce qui sera en mon pouvoir pour réaliser mes paroles. »
 
 Mais la merle ne voulut rien entendre, elle était outrée.
@@ -351,24 +348,24 @@ Mais la merle ne voulut rien entendre, elle était outrée.
 
 -Oui, fais comme cet homme le supplie, et vous ne me devrez plus rien. »
 
-Puis le hareng demanda à l'homme:
+Or, le hareng déclara à l'homme:
 
-« Dites-moi, avant que je ne vous vienne en aide, êtes-vous de ce ceux qui s'amusent à crocheter la gueule des miens?
+« Malheureusement, je ne vous viendrai pas en aide, homme, car vous êtes de ceux qui s'amusent à crocheter la gueule des miens.
 
--Je le jure devant Dieu, de mon berceau à ce jour, nulle viande pour mes repas, nulle bête tuée afin de me sustenter, et il en sera ainsi jusqu'à ma tombe.
+-Pour moi, je le jure devant Dieu, de mon berceau à ce jour, nulle viande pour mes repas, nulle bête tuée afin de me sustenter, et il en sera ainsi jusqu'à ma tombe.
 
--À bon entendeur, salut! dit le poisson en disparaissant dans l'eau.
+-Oh quelle surprise, on n'entend pas cela tous les jours. Eh bien, à bon entendeur, salut! dit le poisson en disparaissant dans l'eau.
 
--Sur mon nid, il est hors de question que j'ai crevé un ballon d'homme pour rien! soupira la merle. »
+-Sur mon nid, il est hors de question que j'ai crevé un ballon d'homme pour rien! dit la merle sans défâcher. »
 
 Et elle s'envola à tire-d'aile, alors que le prince criait avec effusion ses remerciements.
 
 \
 
-&nbsp;&nbsp;&nbsp;&nbsp;Voyant que la louve commençait de s'épuiser, le prince lui proposa de faire une pause.
+&nbsp;&nbsp;&nbsp;&nbsp;Voyant que la louve commençait à s'épuiser, le prince lui proposa de faire une pause.
 Il débarqua de l'animal, et ils marchèrent quelques minutes, au trot.
 
-« Heureusement que tu n'es pas gras comme ces hommes qui s'empiffrent de viande, cracha la louve
+« Heureusement que tu n'es pas gras comme ces hommes qui s'empiffrent de viande, cracha la louve.
 
 -Certes, on voyage toujours plus légèrement lorsqu'on ne participe point à la mort des autres, conclut-il. »
 
@@ -392,7 +389,7 @@ Il s'est probablement ouvert le crâne sur une roche dans la rivière, lorsqu'il
 
 &nbsp;&nbsp;&nbsp;&nbsp;Traumatisé par l'annonce de la mort simultanée et subite de ses frères, le prince ne sut rien faire d'autre à ce moment que de joindre les mains, front au sol, et il commença de prier, tout en sanglotant.
 Pendant ce temps, la louve creusait tranquillement le sol de la forêt pour y déposer les deux corps.
-Un long moment passa, et le soleil était près de tremper dans la mer et d'y disparaître.
+Un long moment passa, et le soleil était près de tremper dans le lointain océan et d'y disparaître.
 Le prince se ressaisit.
 
 « Que faites-vous là?
@@ -423,7 +420,7 @@ Cela doit être une punition divine, la conséquence d'avoir frayé avec les bê
 -Oublierais-tu les nombreuses promesses que tu nous as faites en échange de notre aide? Manquerais-tu à ta parole, humain?
 
 -Ces promesses étaient tributaires d'une victoire pacifique, elles sont désormais caduques.
-D'ailleurs, le destin se chargera de vous punir: le ministre du roi, qui faute de descendant sera au pouvoir par intérim, avait pour plan d'agrandir les terres agricoles au Sud du royaume, et grugera année après année la forêt, il en fera des brandes...
+D'ailleurs, le destin se chargera de vous punir: le ministre du roi, qui faute de descendant sera au pouvoir par intérim, avait pour plan d'agrandir les terres agricoles au sud du royaume, et grugera année après année la forêt, il en fera des brandes...
 
 -Assez! Tu divagues, ton cœur est aveuglé par ta colère. Pour ma part j'en ai assez entendu, et je retourne à ma tanière, honteuse d'avoir daigné aider l'un des vôtres. Puisses-tu connaître le même sort que ta famille sur ton chemin vers les monts brumeux aux sept crêtes. »
 
@@ -437,14 +434,14 @@ Il déposa les corps de ses frères dans les tombes creusées par la louve, suiv
 « Mieux vaut que personne ne sache ce qui s'est passé en cette forêt, seul Dieu le saura. »
 
 Tout en sanglotant discrètement, il recouvrait les corps.
-Un écureuil tout noir, portant entre ses griffes un champignon fluorescent qui lui servait de lanterne, observait tristement le prince.
+Un écureuil tout noir, portant entre ses griffes un champignon fluorescent qui lui servait de lanterne, observait pensivement le prince.
 Une fois sa tâche accomplie, le prince se décida de prier toute la nuit.
 L’écureuil descendit de son perchoir, et, s'adressant au prince:
 
 « Je constate ta douleur, petit homme, et cela m'afflige profondément.
 Viens, suis-moi! »
 
-Il ne sut pourquoi, mais le prince se sentit apaisé par cette rencontre et eut l'intuition qu'il devait suivre le rongeur.
+Le prince ne sut pourquoi, mais il se sentit apaisé par cette rencontre et eut l'intuition qu'il devait suivre le rongeur.
 Ils firent irruption dans une large clairière, illuminée par une multitude de plantes et de champignons luminescents, ainsi que par une foule de lucioles.
 Malgré cet éclairage féerique, il était difficile d’apercevoir nettement l'ensemble de la clairière, la lumière étant trop diffuse.
 Le prince aperçut un autre écureuil, tout blanc, assis sur une souche à la manière d'un homme, c'est-à-dire sur son séant. L’écureuil noir prit place à ses côtés, mais resta debout au sol.
@@ -460,7 +457,7 @@ L’écureuil noir mangeait compulsivement des graines d'un tournesol séché re
 
 L’écureuil noir cessa soudainement de manger, et grimpa sur un arbre gigantesque, qui devait être le plus vieil arbre de la forêt.
 Certaines de ses feuilles étaient dorées, illuminées d'une chaude lumière.
-L’écureuil noir en détacha deux, puis redescendit.
+Il en détacha deux, puis redescendit.
 L'un donna les feuilles à l'autre:
 
 « Merci. Voilà les âmes de tes frères.
@@ -480,8 +477,8 @@ Percevant cet échange et cette rencontre comme une réponse de Dieu à ses pri�
 &nbsp;&nbsp;&nbsp;&nbsp;Une fois au royaume, il fut chaudement accueilli, la foule curieuse se pressait pour apprendre la nouvelle; les crieurs répandirent le retour du plus jeune, désormais prétendant légitime à la succession du roi.
 Le prince passa toutefois la journée à dormir, exténué, et la cérémonie de couronnement n'eut lieu que le soir.
 Dès qu'il fut aux mains du royaume, le prince se fit un devoir de respecter chaque promesse qu'il avait tenue: il taxa les viandes, les poissons, aménageait des pataugeoires pour les oiseaux, fit installer nombre de perchoirs et de mangeoires remplies de graines, bannit la chasse récréative et promulgua nombre autres édits que nous passerons sous silence, de peur d'ennuyer le lecteur par des détails administratifs.
-Notons cependant qu'il promut vigoureusement le régime végétarien, assurant que c'était le seul à même de respecter la parole du Seigneur; ainsi les prêtres relayèrent cette nouvelle doctrine dans leurs sermons, et les sujets firent de grandes économies, entendu que les viandes coûtent plus chère que le blé, les poissons que l'avoine, etc.  
-Le nouveau roi investit dans l’expansion agricole au Nord, mais ce nouveau besoin de terres arables, qui ne pouvait plus passer par le déboisement au Sud, demandait d'entrer en guerre avec une petite royauté.
+Notons cependant qu'il promut vigoureusement le régime végétarien, assurant que c'était le seul à même de respecter la parole du Seigneur; ainsi les prêtres relayèrent cette nouvelle doctrine dans leurs sermons, et les sujets firent de grandes économies, entendu que les viandes coûtent plus chère que le blé, les poissons que l'avoine, etc.
+Le nouveau roi investit dans l’expansion agricole au nord, mais ce nouveau besoin de terres arables, qui ne pouvait plus passer par le déboisement au Sud, demandait d'entrer en guerre avec une petite royauté.
 Le prince décida d'attendre un peu, et ordonna entre-temps l'érection d'un mémorial pour la louve.
 Il lui rendit d'ailleurs visite pour lui annoncer la nouvelle, mais la rancunière ne voulut sortir le museau de sa tanière:
 
@@ -492,7 +489,7 @@ Il lui rendit d'ailleurs visite pour lui annoncer la nouvelle, mais la rancuniè
 -N'y compte pas, trancha-t-elle.
 
 -Mais je tenais à ce que vous appreniez la nouvelle pour le mémorial.
-Parlant de nouvelle... seriez-vous...
+D'ailleurs, parlant de nouvelle... seriez-vous...
 
 -Suis-je? Allez, je n'ai pas tout l'après-midi, s'énerva-t-elle.
 
@@ -524,12 +521,12 @@ Elle semblait émue, à la fois puisqu'elle était gravide, mais aussi pour le m
 
 &nbsp;&nbsp;&nbsp;&nbsp;Trois mois passèrent, et la louve mit à bas sa portée. Deux louveteaux.
 Le roi passait souvent la voir, en forêt, et ils en profitaient pour se balader, et discuter avec l'esprit de la forêt, les poissons, les oiseaux ainsi qu'avec tous les autres animaux.
-Les années passèrent, et les louveteaux grandirent, leur mère s'éteignit, heureuse.
-La population grandissante et la diminution de la consommation de viande augmentant la demande pour les céréales, cela poussa le roi à entreprendre une campagne militaire contre la petite royauté du Nord.
+Les années passèrent, et les louveteaux grandirent. Leur mère s'éteignit, heureuse.
+La population grandissante et la diminution de la consommation de viande augmentant la demande pour les céréales, cela poussa le roi à entreprendre une campagne militaire contre la petite royauté du nord.
 Il alla au combat courageusement, chevauchant un loup, un deuxième à ses côtés, et cette seule vision remplissait de terreur ses ennemis, si bien qu'il mena à bien tous ses projets de conquête.
 De là, il passa à l'histoire et il fut appelé le roi aux loups, *Rex Lupum*.
-S'il fut considéré comme un bon roi, aimant de la nature, friand des balades en forêt, il fut aussi considéré comme sans pitié au combat; les conquêtes suivaient ses pas, et il agrandit considérablement le royaume de son père, aidé par ses deux frères.
-Ainsi, il répandit durablement le régime végétarien sur tout le continent, et put partager son amour pour les bêtes aux hommes de son temps, ainsi qu'aux générations à venir.
+S'il fut considéré comme un bon roi, aimant de la nature, friand des balades en forêt, il fut aussi considéré un vaillant homme; les conquêtes suivaient ses pas, et il agrandit considérablement le royaume de son père, aidé par ses deux frères.
+Ainsi, il répandit durablement la diète végétarienne sur tout le continent, et put partager son amour pour les bêtes aux hommes de son temps, ainsi qu'aux générations à venir.
 
 \
 
