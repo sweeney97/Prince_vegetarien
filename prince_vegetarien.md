@@ -82,7 +82,6 @@ Au plaisir de vous revoir.
 Puis le cheval repartit à l'amble.
 
 \
-\
 
 &nbsp;&nbsp;&nbsp;&nbsp;Un museau sorti d'un buisson.
 
@@ -453,16 +452,16 @@ Nous sommes l'esprit de cette forêt, et nous avons entendu vos plaintes. »
 
 L’écureuil noir mangeait compulsivement des graines d'un tournesol séché replié sur sa longue tige et qui se balançait telle une pendule selon les coups de patte du rongeur qui se servait sans gêne.
 
-« Nous savons que tu tenais à tes frères, alors nous t’offrons un présent qui, nous l'espérerons, adoucira ton chagrin, poursuivit-il. »
+« Nous savons que vous teniez à vos frères, alors nous vous offrons un présent qui, nous l'espérerons, adoucira votre chagrin, poursuivit-il. »
 
 L’écureuil noir cessa soudainement de manger, et grimpa sur un arbre gigantesque, qui devait être le plus vieil arbre de la forêt.
 Certaines de ses feuilles étaient dorées, illuminées d'une chaude lumière.
 Il en détacha deux, puis redescendit.
 L'un donna les feuilles à l'autre:
 
-« Merci. Voilà les âmes de tes frères.
-Ne sois pas surpris: tout ce qui meurt en la forêt y reste, c'est la règle.
-Ce soir, nous pénétrerons dans la tanière de la louve ensommeillée, et lui insérerons ces deux âmes; ainsi, elle enfantera de nouveau, et tes frères renaîtront près de toi.
+« Merci. Voilà les âmes de vos frères.
+Ne soyez pas surpris: tout ce qui meurt en la forêt y reste, c'est la règle.
+Ce soir, nous pénétrerons dans la tanière de la louve ensommeillée, et lui insérerons ces deux âmes; ainsi, elle enfantera de nouveau, et tes frères renaîtront près de vous.
 En revanche, ne vous emballez guère, et écoutez cet avertissement: si les hommes déboisent cette forêt, ne serait-ce que d'une coudée, la louve mettra à bas des mort-nés, et les âmes iront croupir dans la géhenne et vos rêves seront à jamais des cauchemars.
 M'entendez-vous, jeune prince?
 
