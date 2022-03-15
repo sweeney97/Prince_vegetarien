@@ -233,7 +233,7 @@ Il aura tué cet oiseau afin de lancer un avertissement.
 -Rien. Attaquer un homme est bien trop dangereux.
 En général, je ne les approche pas, afin d'éviter les ennuis.
 
--Si seulement, gent ailée, vous pourriez me rendre un service! <!--Sauf erreur de ma part, le conditionnel est incorrect lorsque le « si » introduit une condition. Dans d'autre cas, comme lors d'une interrogation indirecte, le conditionnel est possible. Ici: « pourriez-vous me rendre un service? » -->
+-Si seulement, gent ailée, vous pouviez me rendre un service!
 Seriez-vous capable de l'attaquer en masse et de crever son ballon? »
 
 L'oiseau réfléchit un moment.
