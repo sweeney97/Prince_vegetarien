@@ -1,6 +1,24 @@
 # Le Prince Végétarien
 ##### par A. Sweeney
 
+<!----
+
+Première rétroaction:
+
+- voir à la pertinence des points-virgules
+
+- Présenter les trois personnage en début de conte, et leur plan au pouvoir (bonne idée!); le roi ne pouvant se décider organiser le concours
+
+- Ajouter un monologue avec la louve, à la suite de la prière. Réalisation du prince que la compétition l'a porté à l'encontre de ses valeurs (présentées en début de conte?)
+
+- Ajouter un monologue après le dénouement: avec la louve au mémorial, ou avec les animaux lors d'une balade en forêt (retour).
+
+- Au lieu d'aller faire la guerre, ce qui est généralement mal perçu, il tente de marchander avec la petite royauté du nord un prix préférentiel sur les boisseaux de blé. La petite royauté du Nord non seulement refuse, mais guettant la faiblesse du changement de pouvoir, décide d'entrer en guerre contre le royaume et perd.
+
+- Se fâchant contre les animaux, le prince se  perd en forêt? ll comprend comprend alors avoir besoin de leur aide. Il appelle à l'aide et la merle vient. Elle refuse son aide. Alors il appelle le poisson, qui de même, refuse. Alors vient l'esprit de la forêt. 
+
+-->
+
 \
 
 &nbsp;&nbsp;&nbsp;&nbsp;Fut un temps où trois frères jaloux convoitaient le trône d'un beau et grand royaume.
@@ -132,7 +150,7 @@ Il s'empêtrait dans ses paroles décousues par l'émotion et le désespoir, mai
 « Ma rancune envers les vôtres empêche ma bonté.
 D'ailleurs, qui me dit que tu ne serais pas qu'un gueux, un hypocrite et un menteur?
 
--Mais que vous faut-il de plus, morbleu! qu'elle peine pèse sur votre cœur? »
+-Mais que vous faut-il de plus, morbleu! quelle peine pèse sur votre cœur? »
 
 Et la louve, qui n'attendait que cela, déballa sa peine :
 
@@ -333,7 +351,7 @@ Je vais faire, peu importe le vainqueur, tout ce qui sera en mon pouvoir pour r�
 
 Mais la merle ne voulut rien entendre, elle était outrée.
 
-« Je me suis fait avoir, cervelle d'oiseau! cela m'apprendra à écouter les hommes, ah qu'elle perte de temps. Hareng, pépia-t-elle, interpelant le poisson qui tant bien que mal suivait la compagnie.
+« Je me suis fait avoir, cervelle d'oiseau! cela m'apprendra à écouter les hommes, ah quelle perte de temps. Hareng, pépia-t-elle, interpelant le poisson qui tant bien que mal suivait la compagnie.
 
 -Oui?
 
