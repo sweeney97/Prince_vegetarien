@@ -13,30 +13,46 @@ En cela, il était incompris par ses frères qui le considéraient stupide, niai
 
 Le roi se faisant vieux, il devint un jour gravement malade.
 Il réunit alors ses fils et leur demanda:
+
 « Que chacun d'entre vous m'expose ses plans s'il devait gérer le royaume. »
+
 Chacun exposa ses desseins, pensant ses vues aux autres supérieures.
 L'aîné commença:
+
 « Si j'étais aux commandes de ce royaume, je lancerai une entreprise contre la petite royauté du nord, et soumettrai leur population!
 Nous avons besoin de leurs pâturages et de leurs terres arables, d'ici que nous défrichions la forêt. »
+
 Et le roi, sévère comme doit l'être un père envers son fils, trancha:
+
  « Cela ruinerait inutilement le royaume. Et nous ne pouvons envahir nos voisins sans raison valable. »
+
 Le cadet s'essaya donc:
+
 « Pour ma part, je pense qu'il faille absolument éviter la guerre.
 Je lancerai des expéditions afin de trouver de nouvelles terres où établir nos colonies.
 Nous avons une belle grande flotte, aussi ai-je l'intention d'en tirer parti! »
+
 Idem, le roi congédia les propos de son fils:
+
 « Les expéditions sont par trop hasardeuses, et le peuple voit d"un œil mauvais les ressources qu'elles engloutissent.
 Et toi? »
+
 Alors le benjamin, intimidé, pris la parole.
+
 « Je pense qu'il faut impérativement cesser de défricher la forêt.
 Je m'y promène assez pour savoir qu'elle est le foyer de maintes bêtes.
 J'aime encore mieux encourager le commerce avec la petite royauté de nord afin de pallier notre insuffisance de denrées. »
+
 Le roi fut pris d'un fou rire, suivit par ses deux autres fils.
 Il dut cependant s'arrêter, car les contractions fragilisaient ses côtes malades.
 Et, se reprenant:
+
 « Hé bien. Tu as toujours été un original, toi. On ne défriche pas la forêt par plaisir, c'est que nous avons besoin de nouvelles terres, et nous sommes bloqués à l'ouest par la mer, et à l'est par la chaîne des monts brumeux aux sept crêtes.
+
 -Les animaux ne nous en tiendront pas rigueur, sot! ajouta le cadet.
+
 -Dépendre d'un seul pour notre commerce lui confère un trop grand pouvoir ajouta, l'aîné, avisé.
+
 -Nul d'entre vous ne m'a convaincu du bien-fondé de ses desseins, conclut le roi.
 La couronne ira par conséquent au vainqueur d'un concours!
 Écoutez-moi bien.
