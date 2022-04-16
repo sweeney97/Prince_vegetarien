@@ -487,14 +487,14 @@ Après avoir cheminé longuement, comprenant qu'il ferait mieux d'attendre l'aur
 J'en aurais fait mes proches conseillers.
 Quelle idée stupide, ce concours.
 Pourquoi ne pas avoir organisé un débat public?
-La compétition, oui d'accord, mais autant y aller pour celles des mots et des idées.
+La compétition, oui d'accord, mais autant y aller pour celles des mots.
 Et puis, cette course, c'était une idée dangereuse dès le début!
 Si seulement ces animaux avaient pris plus de précautions.
-Les oiseaux auraient crevé le ballon de telle sorte qu'il perde son air doucement et descende lentement.
+Les oiseaux auraient pu crevé le ballon de telle sorte qu'il perde son air doucement et descende lentement.
 
--C'est ce que nous fîmes, fit une voix triste dans un bruissement de plumes, mais sa colère fut telle qu'il s'empêtra dans les cordages en voulant nous tirer.
+-C'est ce que nous fîmes, fit une voix triste dans un bruissement de plumes, mais la colère du pilote fut telle qu'il s'empêtra dans les cordages en voulant nous tirer.
 
--Oui bien sûr. Je m'imagine facilement sa colère, rien ne le fâche que lorsque ses plans et calculs échouent.
+-Oui bien sûr. Je m'imagine facilement sa colère, rien ne le fâche plus que lorsque ses plans et calculs échouent.
 Et l'autre, devait-il être renversé près des rochers?
 Pourquoi les poissons n'ont-ils pas attendu un endroit plus doux pour exécuter mes ordres?
 
@@ -507,7 +507,7 @@ Puis le prince eut une réalisation soudaine.
 « Qui vive?
 Montrez-vous! »
 
-Il chercha en vain, pensant que cette nuit allait lui faire perdre la tête.
+Il chercha en vain, pensant que cette forêt allait lui faire perdre la tête.
 Il marcha encore au hasard, puis s'installa pour la nuit au pied d'un arbre, mais le petit homme ne pouvait s'endormir et ne cessait de sangloter.
 Un écureuil tout noir, portant entre ses griffes un champignon fluorescent qui lui servait de lanterne, observait pensivement le prince.
 Il descendit de son perchoir, et, s'adressant au lui:
@@ -553,7 +553,7 @@ Le prince passa toutefois la journée à dormir, exténué, et la cérémonie de
 Dès qu'il fut aux mains du royaume, le prince se fit un devoir de respecter chaque promesse qu'il avait tenue: il taxa les viandes, les poissons, aménageait des pataugeoires pour les oiseaux, fit installer nombre de perchoirs et de mangeoires remplies de graines, bannit la chasse récréative et promulgua nombre autres édits que nous passerons sous silence, de peur d'ennuyer le lecteur par des détails administratifs.
 Notons cependant qu'il promut vigoureusement le régime végétarien, assurant que c'était le seul à même de respecter la parole du Seigneur; ainsi les prêtres relayèrent cette nouvelle doctrine dans leurs sermons, et les sujets firent de grandes économies, entendu que les viandes coûtent plus cher que le blé, les poissons que l'avoine, etc. Le nouveau roi tenta de marchander un prix préférentiel sur certaines denrées alimentaires, notamment sur le boisseau de blé, avec la petite royauté du nord, mais son roi, un vieil homme bourru, voyant que son voisin du sud semblait aux prises avec des problèmes d'approvisionnement, décida de préparer une campagne militaire.
 Le jeune roi en fut averti par ses espions, mais voulut atténuer toutes ardeurs belliqueuses par force manœuvres diplomatiques, qui, il l'espérait, ferait comprendre qu'une guerre serait coûteuse pour tous.
-Guettant l'évolution de la situation, il décida d'attendre un peu, et ordonna entre-temps l'érection d'un mémorial pour la louve.
+Guettant l'évolution de la situation, il décida d'attendre, et ordonna entre-temps l'érection d'un mémorial pour la louve.
 Il lui rendit d'ailleurs visite pour lui annoncer la nouvelle, mais la rancunière ne voulut sortir le museau de sa tanière:
 
 « Tu es déjà assez chanceux que je souffre de t'écouter, et en plus tu voudrais que je sorte de chez moi? Hors de question.
@@ -606,11 +606,11 @@ Ils discutèrent un peu, puis eut lieu la cérémonie, et on raconta que la plup
 Le roi passait souvent la voir, en forêt, et ils en profitaient pour se balader, et discuter avec l'esprit de la forêt, les poissons, les oiseaux ainsi qu'avec tous les autres animaux qui étaient de ses amis.
 Les années passèrent, et les louveteaux grandirent.
 Leur mère s'éteignit, heureuse.
-La population grandissante et la diminution de la consommation de viande augmentaient la demande pour les céréales. Or, le roi n'avait toujours pas obtenu le taux préférentiel sur les boisseaux de blé qu'il espérait de son voisin.
+La population grandissante et la diminution de la consommation de viande augmentaient la demande pour les céréales. Or, le roi n'avait toujours pas obtenu le taux préférentiel sur le boisseau de blé qu'il espérait de son voisin.
 De plus, au fil des années, la petite royauté du nord avait recruté de nombreux chevaliers, et son armée gonflait tant et si bien qu'on redoutait l'éclatement de la guerre.  
 Celle-ci advint, ainsi que l'avaient prévu les informateurs du roi, duquel les missions diplomatiques s'avéraient infructueuses.
 La petite royauté du nord entra officiellement en guerre.
-Le jeune roi alla au combat courageusement, chevauchant un loup, un deuxième à ses côtés, et cette seule vision remplissait de terreur les plus preux chevaliers, qui blêmissaient sous leur armure, s'ils ne désertaient pas en se signant.
+Accompagnée de toute son armée, le jeune roi alla au combat courageusement, chevauchant un loup, un deuxième à ses côtés, et cette seule vision remplissait de terreur les plus preux chevaliers, qui blêmissaient sous leur armure, s'ils ne désertaient pas en se signant.
 L'armée de la petite royauté du nord fut défaite, et sans quoi, la population décida d’expulser leur vieux dirigeant bourru et de se joindre au royaume du jeune roi végétarien. Celui-ci fit donc l’acquisition d'une grande terre qui lui permit de nourrir tous ses sujets.
 S'il fut considéré comme un bon roi, aimant de la nature, friand des balades en forêt, il fut aussi considéré un vaillant homme, repoussant chacune des agressions armées qu'il subit durant son règne, agrandissant par le fait même considérablement le royaume de son père, aidé par les deux loups.
 De là, il passa à l'histoire et il fut appelé le roi aux loups, *Rex Lupum*.
