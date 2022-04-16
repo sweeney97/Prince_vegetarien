@@ -102,9 +102,9 @@ Aussitôt passé la lisère, le cheval s'arrêta.
 
 -En vérité, nous voilà rendus, reprit le cheval.
 
-- Comment, c'est tout? Nous avons fait à peine une lieue.
+-Comment, c'est tout? Nous avons fait à peine une lieue.
 
-- Je ne peux point aller plus avant en la forêt: je suis plutôt accoutumé aux prairies! Nous sommes près de la tanière de la louve, je vous laisse ici entre de bonnes pattes.
+-Je ne peux point aller plus avant en la forêt: je suis plutôt accoutumé aux prairies! Nous sommes près de la tanière de la louve, je vous laisse ici entre de bonnes pattes.
 Au plaisir de vous revoir.
 
 -Moi de même, dit poliment le prince en descendant du cheval. »
@@ -476,15 +476,15 @@ Et puis, cette course, c'était une idée dangereuse dès le début!
 Si seulement ces animaux avaient pris plus de précautions.
 Les oiseaux auraient crevé le ballon de telle sorte qu'il perde son air doucement et descende lentement.
 
-- C'est ce que nous fîmes, fit une voix triste dans un bruissement de plumes, mais sa colère fut telle qu'il s'empêtra dans les cordages en voulant nous tirer.
+-C'est ce que nous fîmes, fit une voix triste dans un bruissement de plumes, mais sa colère fut telle qu'il s'empêtra dans les cordages en voulant nous tirer.
 
-- Oui bien sûr. Je m'imagine facilement sa colère, rien ne le fâche que lorsque ses plans et calculs échouent.
+-Oui bien sûr. Je m'imagine facilement sa colère, rien ne le fâche que lorsque ses plans et calculs échouent.
 Et l'autre, devait-il être renversé près des rochers?
 Pourquoi les poissons n'ont-ils pas attendu un endroit plus doux pour exécuter mes ordres?
 
-- Nous firent de notre mieux, fit une autre voix, cette fois dans un glougloutement, mais sa fureur fut telle qu'il tenta de nous piquer tous de son arme, au lieu que de voir à sa propre survie.
+-Nous firent de notre mieux, fit une autre voix, cette fois dans un glougloutement, mais sa fureur fut telle qu'il tenta de nous piquer tous de son arme, au lieu que de voir à sa propre survie.
 
-- Oui, là aussi je le reconnais. Furieux d'être pris de court. Hélas, le sort eut raison d'eux finalement. »
+-Oui, là aussi je le reconnais. Furieux d'être pris de court. Hélas, le sort eut raison d'eux finalement. »
 
 Puis le prince eut une réalisation soudaine.
 
@@ -573,9 +573,9 @@ Elle semblait émue, à la fois puisqu'elle était gravide, mais aussi pour le m
 
 « Tu as dit vrai, homme, et je porte en mon sein l'âme de tes deux frères.
 
-- Ainsi l'esprit de la forêt n'est peut-être pas si fou qu'on le prétend.
+-Ainsi l'esprit de la forêt n'est peut-être pas si fou qu'on le prétend.
 
-- Ça me crève le cœur, mais je tiens à présenter mes excuses. »
+-Ça me crève le cœur, mais je tiens à présenter mes excuses. »
 
 Le prince eut un sourire rayonnant.
 
