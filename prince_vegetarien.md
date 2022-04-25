@@ -19,7 +19,7 @@ Il réunit alors ses fils et leur demanda:
 Chacun exposa ses desseins, pensant ses vues aux autres supérieures.
 L'aîné commença:
 
-« Si j'étais aux commandes de ce royaume, je lancerai une entreprise contre la petite royauté du nord, et soumettrai leur population!
+« Si j'étais aux commandes de ce royaume, je lancerais une entreprise contre la petite royauté du nord, et soumettrais leur population!
 Nous avons besoin de leurs pâturages et de leurs terres arables, d'ici que nous défrichions la forêt. »
 
 Et le roi, sévère comme doit l'être un père envers son fils, trancha:
@@ -37,7 +37,7 @@ Idem, le roi congédia les propos de son fils:
 « Les expéditions sont par trop hasardeuses, et le peuple voit d"un œil mauvais les ressources qu'elles engloutissent.
 Et toi? »
 
-Alors le benjamin, intimidé, pris la parole.
+Alors le benjamin, intimidé, prit la parole.
 
 « Je pense qu'il faut impérativement cesser de défricher la forêt.
 Je m'y promène assez pour savoir qu'elle est le foyer de maintes bêtes.
@@ -490,7 +490,7 @@ Pourquoi ne pas avoir organisé un débat public?
 La compétition, oui d'accord, mais autant y aller pour celles des mots.
 Et puis, cette course, c'était une idée dangereuse dès le début!
 Si seulement ces animaux avaient pris plus de précautions.
-Les oiseaux auraient pu crevé le ballon de telle sorte qu'il perde son air doucement et descende lentement.
+Les oiseaux auraient pu crever le ballon de telle sorte qu'il perde son air doucement et descende lentement.
 
 -C'est ce que nous fîmes, fit une voix triste dans un bruissement de plumes, mais la colère du pilote fut telle qu'il s'empêtra dans les cordages en voulant nous tirer.
 
